@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" fill="#4a1c1c"/>
+  <circle cx="256" cy="256" r="204" fill="none" stroke="#c8a236" stroke-width="6"/>
+  <circle cx="256" cy="256" r="192" fill="none" stroke="#c8a236" stroke-width="2" stroke-dasharray="6 4" opacity="0.75"/>
+  <!-- Cross & Marian M Emblem inside safe zone -->
+  <g stroke="#e6c665" fill="#c8a236">
+    <rect x="244" y="96" width="24" height="260" rx="3"/>
+    <rect x="156" y="164" width="200" height="24" rx="3"/>
+    <path d="M178 378 L206 270 L256 336 L306 270 L334 378 L314 378 L296 306 L256 358 L216 306 L198 378 Z" fill="#e6c665" stroke="none"/>
+  </g>
+  <text x="256" y="422" text-anchor="middle" font-family="Georgia, serif" font-size="22" fill="#f3dc90" letter-spacing="4">ROSARIUM</text>
+</svg>
