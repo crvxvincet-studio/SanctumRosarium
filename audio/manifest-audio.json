@@ -1,0 +1,11 @@
+{
+  "version": "Beta 1",
+  "formato": "m4a",
+  "estadoUI": "oculto_por_defecto_activable_en_configuracion",
+  "archivosPrincipales": {
+    "pater_noster": "audio/paternoster.m4a",
+    "ave_maria": "audio/avemaria.m4a",
+    "gloria_patri": "audio/gloria.m4a"
+  },
+  "instruccionesGitHub": "Reemplaza en la carpeta /audio de tu repositorio los archivos paternoster.m4a, avemaria.m4a y gloria.m4a conservando exactamente estos nombres y extensión .m4a."
+}
