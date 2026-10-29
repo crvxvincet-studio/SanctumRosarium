@@ -1,0 +1,203 @@
+{
+  "meta": {
+    "titulo": "Sanctum Rosarium · Archivo Específico de Oraciones y Pronunciación Eclesiástica",
+    "version": "Beta 1",
+    "instruccionUso": "Al tocar cualquier oración en la pantalla, se despliega su lectura fonética completa desde el español conforme a la pronunciación eclesiástica tradicional (more romano)."
+  },
+  "reglasPronunciacion": [
+    {
+      "grafia": "ae / oe (æ / œ)",
+      "sonido": "Se pronuncian siempre como una «e» clara castellana.",
+      "ejemplo": "cælis → (: ché-lis) · pœnitet → (: pé-ni-tet)"
+    },
+    {
+      "grafia": "c ante e, i, æ, œ, y",
+      "sonido": "Suena como «ch» española (nunca como z ni s).",
+      "ejemplo": "Crucis → (: krú-chis) · cælum → (: ché-lum) · princípio → (: prin-chí-pi-o)"
+    },
+    {
+      "grafia": "c ante a, o, u o consonante",
+      "sonido": "Suena como «k» fuerte.",
+      "ejemplo": "carnis → (: kár-nis) · Sancto → (: sánk-to)"
+    },
+    {
+      "grafia": "g ante e, i, æ, œ, y",
+      "sonido": "Suena como «y» suave (o «ll» suave), nunca como jota española.",
+      "ejemplo": "Génitrix → (: yé-ni-triks) · Regína → (: re-yí-na) · Vírginis → (: vír-yi-nis)"
+    },
+    {
+      "grafia": "gn",
+      "sonido": "Suena exactamente como la «ñ» española.",
+      "ejemplo": "Regnum → (: ré-ñum) · agnus → (: á-ñus) · dignum → (: dí-ñum)"
+    },
+    {
+      "grafia": "sc ante e, i, æ, œ",
+      "sonido": "Suena como «sh» suave (como en inglés 'she').",
+      "ejemplo": "descéndit → (: de-shén-dit) · súscipe → (: sús-shi-pe)"
+    },
+    {
+      "grafia": "ti seguido de vocal",
+      "sonido": "Suena «tsi» (salvo si va precedido de s, t o x, o al inicio de palabra).",
+      "ejemplo": "grátia → (: grá-tsi-a) · tentatiónem → (: ten-ta-tsi-ó-nem) · contritiónis → (: kon-tri-tsi-ó-nis)"
+    },
+    {
+      "grafia": "qu",
+      "sonido": "Siempre se pronuncia la «u» (sonido «ku»), incluso ante e, i.",
+      "ejemplo": "qui → (: kuí) · quæ → (: kué) · quotidiánum → (: kuo-ti-di-á-num)"
+    },
+    {
+      "grafia": "ll, mm, nn, pp, ss, tt",
+      "sonido": "Consonantes geminadas: se pronuncian ambas letras separando las sílabas (la «ll» nunca suena como elle española, sino como «l-l»).",
+      "ejemplo": "ancílla → (: an-chíl-la) · alléva → (: al-lé-va) · íllas → (: íl-las) · dimítte → (: di-mít-te)"
+    },
+    {
+      "grafia": "j (i consonántica)",
+      "sonido": "Suena como «y» española.",
+      "ejemplo": "Jesus → (: yé-sus) · ejus → (: é-yus) · cujus → (: kú-yus)"
+    },
+    {
+      "grafia": "ch / ph / th",
+      "sonido": "«ch» suena siempre como «k»; «ph» suena como «f»; «th» suena como «t».",
+      "ejemplo": "Christus → (: krís-tus) · Micháël → (: mi-ká-el) ·Elísabeth → (: e-lí-sa-bet)"
+    },
+    {
+      "grafia": "h",
+      "sonido": "Es muda como en español, excepto en las palabras «mihi» y «nihil», donde suena como «k».",
+      "ejemplo": "hódie → (: ó-di-e) · hora → (: ó-ra) · mihi → (: mí-ki)"
+    }
+  ],
+  "oraciones": {
+    "signum_crucis": {
+      "id": "signum_crucis",
+      "titulo_la": "Signum Crucis",
+      "pron_la": "(: sí-ñum krú-chis)",
+      "titulo_es": "Por la Señal de la Santa Cruz",
+      "audio_m4a": "",
+      "texto_la": "Per signum ✠ Crucis de inimícis ✠ nostris líbera nos, ✠ Deus noster.\nIn nómine Patris, ✠ et Fílii, et Spíritus Sancti. Amen.",
+      "lectura_fonetica_es": "Per sí-ñum ✠ Krú-chis de i-ni-mí-chis ✠ nós-tris lí-be-ra nos, ✠ Dé-us nós-ter.\nIn nó-mi-ne Pá-tris, ✠ et Fí-li-i, et Spí-ri-tus Sánk-ti. Á-men.",
+      "texto_es": "Por la señal ✠ de la Santa Cruz, de nuestros enemigos ✠ líbranos, Señor, ✠ Dios nuestro.\nEn el nombre del Padre, ✠ y del Hijo, y del Espíritu Santo. Amén.",
+      "nota": "Toca el texto de la oración para desplegar u ocultar cómo leerlo desde el español."
+    },
+    "symbolum_apostolorum": {
+      "id": "symbolum_apostolorum",
+      "titulo_la": "Sýmbolum Apostolórum",
+      "pron_la": "(: sím-bo-lum a-pos-to-ló-rum)",
+      "titulo_es": "El Credo de los Apóstoles",
+      "audio_m4a": "",
+      "texto_la": "Credo in Deum Patrem omnipoténtem, Creatórem cæli et terræ. Et in Jesum Christum, Fílium ejus únicum, Dóminum nostrum, qui concéptus est de Spíritu Sancto, natus ex María Vírgine, passus sub Póntio Piláto, crucifíxus, mórtuus, et sepúltus: descéndit ad ínferos; tértia die resurréxit a mórtuis; ascéndit ad cælos, sedet ad déxteram Dei Patris omnipoténtis: inde ventúrus est judicáre vivos et mórtuos.\nCredo in Spíritum Sanctum, sanctam Ecclésiam cathólicam, Sanctórum communiónem, remissiónem peccatórum, carnis resurrectiónem, vitam ætérnam. Amen.",
+      "lectura_fonetica_es": "Kré-do in Dé-um Pá-trem om-ni-po-tén-tem, Kre-a-tó-rem ché-li et tér-re. Et in Yé-sum Krís-tum, Fí-li-um é-yus ú-ni-kum, Dó-mi-num nós-trum, kuí kon-chép-tus est de Spí-ri-tu Sánk-to, ná-tus eks Ma-rí-a Vír-yi-ne, pás-sus sub Pón-tsi-o Pi-lá-to, kru-chi-fík-sus, mór-tu-us, et se-púl-tus: de-shén-dit ad ín-fe-ros; tér-tsi-a dí-e re-sur-rék-sit a mór-tu-is; a-shén-dit ad ché-los, sé-det ad déks-te-ram Dé-i Pá-tris om-ni-po-tén-tis: ín-de ven-tú-rus est yu-di-ká-re ví-vos et mór-tu-os.\nKré-do in Spí-ri-tum Sánk-tum, sánk-tam Ek-klé-si-am ka-tó-li-kam, Sank-tó-rum kom-mu-ni-ó-nem, re-mis-si-ó-nem pek-ka-tó-rum, kár-nis re-sur-rek-tsi-ó-nem, ví-tam e-tér-nam. Á-men.",
+      "texto_es": "Creo en Dios, Padre Todopoderoso, Creador del cielo y de la tierra. Creo en Jesucristo, su único Hijo, Nuestro Señor, que fue concebido por obra y gracia del Espíritu Santo, nació de Santa María Virgen, padeció bajo el poder de Poncio Pilato, fue crucificado, muerto y sepultado, descendió a los infiernos, al tercer día resucitó de entre los muertos, subió a los cielos y está sentado a la derecha de Dios, Padre Todopoderoso. Desde allí ha de venir a juzgar a vivos y muertos.\nCreo en el Espíritu Santo, la Santa Iglesia Católica, la comunión de los santos, el perdón de los pecados, la resurrección de la carne y la vida eterna. Amén.",
+      "nota": "Símbolo de la Fe apostólica con que da comienzo la corona del Santo Rosario."
+    },
+    "actus_contritionis": {
+      "id": "actus_contritionis",
+      "titulo_la": "Actus Contritiónis",
+      "pron_la": "(: ák-tus kon-tri-tsi-ó-nis)",
+      "titulo_es": "Acto de Contrición",
+      "audio_m4a": "",
+      "texto_la": "Deus meus, ex toto corde pœnitet me ómnium meórum peccatórum, eáque detéstor, quia peccándo, non solum pœnas a Te juste statútas proméritus sum, sed præsértim quia offéndi Te, summum bonum, ac dignum qui super ómnia diligáris. Ídeo fírmiter propóno, adjuvante grátia Tua, de cétero me non peccatúrum peccandíque occasiónes próximas fugitúrum. Amen.",
+      "lectura_fonetica_es": "Dé-us mé-us, eks tó-to kór-de pé-ni-tet me óm-ni-um me-ó-rum pek-ka-tó-rum, e-á-kue de-tés-tor, kuí-a pek-kán-do, non só-lum pé-nas a Te yús-te sta-tú-tas pro-mé-ri-tus sum, sed pre-sér-tim kuí-a of-fén-di Te, súm-mum bó-num, ak dí-ñum kuí sú-per óm-ni-a di-li-gá-ris. Í-de-o fír-mi-ter pro-pó-no, ad-yu-ván-te grá-tsi-a Tú-a, de ché-te-ro me non pek-ka-tú-rum pek-kan-dí-kue ok-ka-si-ó-nes prók-si-mas fu-yi-tú-rum. Á-men.",
+      "texto_es": "Señor mío Jesucristo, Dios y Hombre verdadero, Creador, Padre y Redentor mío; por ser Vos quien sois, Bondad infinita, y porque os amo sobre todas las cosas, me pesa de todo corazón de haberos ofendido; también me pesa porque podéis castigarme con las penas del infierno. Ayudado de vuestra divina gracia, propongo firmemente nunca más pecar, confesarme y cumplir la penitencia que me fuere impuesta. Amén.",
+      "nota": "Purificación del alma antes de meditar los Misterios, para que la oración sea meritoria."
+    },
+    "invocatio_initialis": {
+      "id": "invocatio_initialis",
+      "titulo_la": "Invocátio Initiális",
+      "pron_la": "(: in-vo-ká-tsi-o i-ni-tsi-á-lis)",
+      "titulo_es": "Invocación Inicial",
+      "audio_m4a": "",
+      "texto_la": "V. Dómine, lábia mea apéries.\nR. Et os meum annuntiábit laudem tuam.\nV. Deus, in adjutórium meum inténde.\nR. Dómine, ad adjuvándum me festína.\nGlória Patri, et Fílio, et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, et in sǽcula sæculórum. Amen.",
+      "lectura_fonetica_es": "V. Dó-mi-ne, lá-bi-a mé-a a-pé-ri-es.\nR. Et os mé-um an-nun-tsi-á-bit láu-dem tú-am.\nV. Dé-us, in ad-yu-tó-ri-um mé-um in-tén-de.\nR. Dó-mi-ne, ad ad-yu-ván-dum me fes-tí-na.\nGló-ri-a Pá-tri, et Fí-li-o, et Spi-rí-tu-i Sánk-to. Sí-kut é-rat in prin-chí-pi-o, et nunk, et sém-per, et in sé-ku-la se-ku-ló-rum. Á-men.",
+      "texto_es": "V. Señor, abre mis labios.\nR. Y mi boca anunciará tu alabanza.\nV. Dios mío, ven en mi auxilio.\nR. Señor, date prisa en socorrerme.\nGloria al Padre, y al Hijo, y al Espíritu Santo. Como era en el principio, ahora y siempre, por los siglos de los siglos. Amén.",
+      "nota": "Versículos tradicionales de apertura del Oficio Divino."
+    },
+    "pater_noster": {
+      "id": "pater_noster",
+      "titulo_la": "Pater noster",
+      "pron_la": "(: pá-ter nós-ter)",
+      "titulo_es": "Padre Nuestro",
+      "audio_m4a": "audio/paternoster.m4a",
+      "texto_la": "Pater noster, qui es in Cœlis, sanctificétur nomen tuum. Advéniat Regnum tuum. Fiat volúntas tua, sicut in Cœlo et in terra. Panem nostrum quotidiánum da nobis hódie. Et dimítte nobis débita nostra, sicut et nos dimíttimus debitóribus nostris. Et ne nos indúcas in tentatiónem, sed líbera nos a malo.\nAmen.",
+      "lectura_fonetica_es": "Pá-ter nós-ter, kuí es in Ché-lis, sank-ti-fi-ché-tur nó-men tú-um. Ad-vé-ni-at Ré-ñum tú-um. Fí-at vo-lún-tas tú-a, sí-kut in Ché-lo et in tér-ra. Pá-nem nós-trum kuo-ti-di-á-num da nó-bis ó-di-e. Et di-mít-te nó-bis dé-bi-ta nós-tra, sí-kut et nos di-mít-ti-mus de-bi-tó-ri-bus nós-tris. Et ne nos in-dú-kas in ten-ta-tsi-ó-nem, sed lí-be-ra nos a má-lo.\nÁ-men.",
+      "texto_es": "Padre nuestro, que estás en los cielos, santificado sea tu Nombre; venga a nosotros tu Reino; hágase tu voluntad, así en la tierra como en el cielo. El pan nuestro de cada día dánosle hoy; y perdónanos nuestras deudas, así como nosotros perdonamos a nuestros deudores; y no nos dejes caer en la tentación, mas líbranos del mal.\nAmén.",
+      "nota": "Oración Dominical que precede a las diez salutaciones angélicas de cada misterio."
+    },
+    "ave_maria": {
+      "id": "ave_maria",
+      "titulo_la": "AVE MARIA",
+      "pron_la": "(: á-ve ma-rí-a)",
+      "titulo_es": "Ave María",
+      "audio_m4a": "audio/avemaria.m4a",
+      "texto_la": "Ave Maria, gratia plena; Dominus tecum: benedicta tu in mulieribus, et benedictus fructus ventris tui Jesus. Sancta Maria, Mater Dei, ora pro nobis peccatoribus, nunc et in hora mortis nostrae. Amen.",
+      "lectura_fonetica_es": "Á-ve Ma-rí-a, grá-tsi-a plé-na; Dó-mi-nus té-kum: be-ne-dík-ta tu in mu-li-é-ri-bus, et be-ne-dík-tus frúk-tus vén-tris tú-i Yé-sus. Sánk-ta Ma-rí-a, Má-ter Dé-i, ó-ra pro nó-bis pek-ka-tó-ri-bus, nunk et in ó-ra mór-tis nós-tre. Á-men.",
+      "texto_es": "Dios te salve, María, llena eres de gracia; el Señor es contigo; bendita tú eres entre todas las mujeres, y bendito es el fruto de tu vientre, Jesús. Santa María, Madre de Dios, ruega por nosotros, pecadores, ahora y en la hora de nuestra muerte. Amén.",
+      "nota": "Salutación Angélica con que saludamos 150 veces a la Santa Madre de Dios en su Salterio."
+    },
+    "gloria_patri": {
+      "id": "gloria_patri",
+      "titulo_la": "Gloria",
+      "pron_la": "(: gló-ri-a pá-tri)",
+      "titulo_es": "Gloria al Padre",
+      "audio_m4a": "audio/gloria.m4a",
+      "texto_la": "Gloria Patri, et Filio, et Spiritui Sancto. Sicut erat in principio, et nunc, et semper, et in saecula saeculorum. Amen.",
+      "lectura_fonetica_es": "Gló-ri-a Pá-tri, et Fí-li-o, et Spi-rí-tu-i Sánk-to. Sí-kut é-rat in prin-chí-pi-o, et nunk, et sém-per, et in sé-ku-la se-ku-ló-rum. Á-men.",
+      "texto_es": "Gloria al Padre, y al Hijo, y al Espíritu Santo. Como era en el principio, ahora y siempre, y por los siglos de los siglos. Amén.",
+      "nota": "Doxología trinitaria al concluir las diez Ave Marías de la decena."
+    },
+    "oratio_fatimae": {
+      "id": "oratio_fatimae",
+      "titulo_la": "Oratio Fátima",
+      "pron_la": "(: o-rá-tsi-o fá-ti-me)",
+      "titulo_es": "Oración de Fátima",
+      "audio_m4a": "",
+      "texto_la": "O mi Jesu, dimítte nobis, líbera nos ab igne Inférni, alléva ánimas Purgatórii, præsértim illas quæ máxime relíctæ sunt.\n\nMaria, Mater grátiæ, Mater misericórdiæ, tu nos ab hoste prótege et mortis hora súscipe. Amen.",
+      "lectura_fonetica_es": "O mi Yé-su, di-mít-te nó-bis, lí-be-ra nos ab í-ñe In-fér-ni, al-lé-va á-ni-mas Pur-ga-tó-ri-i, pre-sér-tim íl-las kué mák-si-me re-lík-te sunt.\n\nMa-rí-a, Má-ter grá-tsi-e, Má-ter mi-se-ri-kór-di-e, tu nos ab ós-te pró-te-ye et mór-tis ó-ra sús-shi-pe. Á-men.",
+      "texto_es": "Oh, amado Jesús, perdona nuestros pecados, líbranos del fuego del infierno, alivia a las almas del purgatorio, especialmente a las más olvidadas.\n\nMaría, Madre de gracia, Madre de piedad y misericordia, defiéndenos de nuestros enemigos y ampáranos ahora y en la hora de nuestra muerte. Amén.",
+      "nota": "Traducción teológicamente precisa: las almas purgantes ya se benefician de la Misericordia de Dios y su salvación es un hecho; quienes las olvidan son sus amigos, parientes y conocidos en la tierra."
+    },
+    "salutationes_finales": {
+      "id": "salutationes_finales",
+      "titulo_la": "Salutatiónes ad Sanctíssimam Vírginem",
+      "pron_la": "(: sa-lu-ta-tsi-ó-nes ad sank-tís-si-mam vír-yi-nem)",
+      "titulo_es": "Salutaciones Finales a la Santísima Virgen",
+      "audio_m4a": "",
+      "texto_la": "• Deus te salvet, María, Fília Dei Patris: Ave María...\n• Deus te salvet, María, Mater Dei Fílii: Ave María...\n• Deus te salvet, María, Sponsa Spíritus Sancti: Ave María...\n• Deus te salvet, María, Templum et Sacrárium Sanctíssimæ Trinitátis: Glória Patri...",
+      "lectura_fonetica_es": "• Dé-us te sál-vet, Ma-rí-a, Fí-li-a Dé-i Pá-tris: Á-ve Ma-rí-a...\n• Dé-us te sál-vet, Ma-rí-a, Má-ter Dé-i Fí-li-i: Á-ve Ma-rí-a...\n• Dé-us te sál-vet, Ma-rí-a, Spón-sa Spí-ri-tus Sánk-ti: Á-ve Ma-rí-a...\n• Dé-us te sál-vet, Ma-rí-a, Tém-plum et Sa-krá-ri-um Sank-tís-si-me Tri-ni-tá-tis: Gló-ri-a Pá-tri...",
+      "texto_es": "• Dios te salve, María, Hija de Dios Padre: Dios te salve, María...\n• Dios te salve, María, Madre de Dios Hijo: Dios te salve, María...\n• Dios te salve, María, Esposa de Dios Espíritu Santo: Dios te salve, María...\n• Dios te salve, María, Templo y Sagrario de la Santísima Trinidad: Gloria al Padre...",
+      "nota": "Rezo tradicional por las intenciones de la Santa Madre Iglesia."
+    },
+    "salve_regina": {
+      "id": "salve_regina",
+      "titulo_la": "Salve Regína",
+      "pron_la": "(: sál-ve re-yí-na)",
+      "titulo_es": "La Salve",
+      "audio_m4a": "",
+      "texto_la": "Salve, Regína, Mater misericórdiæ, vita, dulcédo, et spes nostra, salve. Ad te clamámus, éxsules fílii Hevæ. Ad te suspirámus, geméntes et flentes in hac lacrimárum valle. Eja, ergo, Advocáta nostra, illos tuos misericórdes óculos ad nos convérte; et Jesum, benedíctum fructum ventris tui, nobis post hoc exsílium osténde. O clemens, O pia, O dulcis Virgo María.\n\nV. Ora pro nobis, sancta Dei Génitrix.\nR. Ut digni efficiámur promissiónibus Christi.",
+      "lectura_fonetica_es": "Sál-ve, Re-yí-na, Má-ter mi-se-ri-kór-di-e, ví-ta, dul-ché-do, et spes nós-tra, sál-ve. Ad te kla-má-mus, ék-su-les fí-li-i É-ve. Ad te sus-pi-rá-mus, ye-mén-tes et flén-tes in ak la-kri-má-rum vál-le. É-ya, ér-go, Ad-vo-ká-ta nós-tra, íl-los tú-os mi-se-ri-kór-des ó-ku-los ad nos kon-vér-te; et Yé-sum, be-ne-dík-tum frúk-tum vén-tris tú-i, nó-bis post ok ek-sí-li-um os-tén-de. O klé-mens, O pí-a, O dúl-chis Vír-go Ma-rí-a.\n\nV. Ó-ra pro nó-bis, sánk-ta Dé-i Yé-ni-triks.\nR. Ut dí-ñi ef-fi-chi-á-mur pro-mis-si-ó-ni-bus Krís-ti.",
+      "texto_es": "Dios te salve, Reina y Madre de misericordia, vida, dulzura y esperanza nuestra; Dios te salve. A Ti llamamos los desterrados hijos de Eva; a Ti suspiramos, gimiendo y llorando, en este valle de lágrimas. Ea, pues, Señora, abogada nuestra, vuelve a nosotros esos tus ojos misericordiosos; y después de este destierro muéstranos a Jesús, fruto bendito de tu vientre. ¡Oh clementísima, oh piadosa, oh dulce siempre Virgen María!\n\nV. Ruega por nosotros, Santa Madre de Dios.\nR. Para que seamos dignos de alcanzar las promesas de Nuestro Señor Jesucristo.",
+      "nota": "Antífona final de súplica a Nuestra Señora."
+    },
+    "litaniae_lauretanae": {
+      "id": "litaniae_lauretanae",
+      "titulo_la": "Litaniæ Lauretánæ",
+      "pron_la": "(: li-ta-ní-e lau-re-tá-ne)",
+      "titulo_es": "Letanías Lauretanas",
+      "audio_m4a": "",
+      "texto_la": "Kýrie, eléison. Christe, eléison. Kýrie, eléison.\nChriste, audi nos. Christe, exáudi nos.\nPater de cælis, Deus, miserére nobis.\nFili, Redémptor mundi, Deus, miserére nobis.\nSpíritus Sancte, Deus, miserére nobis.\nSancta Trínitas, unus Deus, miserére nobis.\n\nSancta María, ora pro nobis.\nSancta Dei Génitrix, ora pro nobis.\nSancta Virgo vírginum, ora pro nobis.\nMater Christi, ora pro nobis.\nMater divínæ grátiæ, ora pro nobis.\nMater puríssima, ora pro nobis.\nMater castíssima, ora pro nobis.\nMater invioláta, ora pro nobis.\nMater intemeráta, ora pro nobis.\nMater amábilis, ora pro nobis.\nMater admirábilis, ora pro nobis.\nMater boni consílii, ora pro nobis.\nMater Creatóris, ora pro nobis.\nMater Salvatóris, ora pro nobis.\nVirgo prudentíssima, ora pro nobis.\nVirgo veneránda, ora pro nobis.\nVirgo prædicánda, ora pro nobis.\nVirgo potens, ora pro nobis.\nVirgo clemens, ora pro nobis.\nVirgo fidélis, ora pro nobis.\nSpéculum justítiæ, ora pro nobis.\nSedes sapiéntiæ, ora pro nobis.\nCausa nostræ lætítiæ, ora pro nobis.\nVas spirituále, ora pro nobis.\nVas honorábile, ora pro nobis.\nVas insígne devotiónis, ora pro nobis.\nRosa mýstica, ora pro nobis.\nTurris Davídica, ora pro nobis.\nTurris ebúrnea, ora pro nobis.\nDomus áurea, ora pro nobis.\nFœderis arca, ora pro nobis.\nJánua cæli, ora pro nobis.\nStella matutína, ora pro nobis.\nSalus infirmórum, ora pro nobis.\nRefúgium peccatórum, ora pro nobis.\nConsolátrix afflictórum, ora pro nobis.\nAuxílium Christianórum, ora pro nobis.\nRegína Angelórum, ora pro nobis.\nRegína Patriarchárum, ora pro nobis.\nRegína Prophetárum, ora pro nobis.\nRegína Apostolórum, ora pro nobis.\nRegína Mártyrum, ora pro nobis.\nRegína Confessórum, ora pro nobis.\nRegína Vírginum, ora pro nobis.\nRegína Sanctórum ómnium, ora pro nobis.\nRegína sine labe origináli concépta, ora pro nobis.\nRegína in cælum assúmpta, ora pro nobis.\nRegína sacratíssimi Rosárii, ora pro nobis.\nRegína pacis, ora pro nobis.\n\nAgnus Dei, qui tollis peccáta mundi, parce nobis, Dómine.\nAgnus Dei, qui tollis peccáta mundi, exáudi nos, Dómine.\nAgnus Dei, qui tollis peccáta mundi, miserére nobis.",
+      "lectura_fonetica_es": "Kí-ri-e, e-lé-i-son. Krís-te, e-lé-i-son. Kí-ri-e, e-lé-i-son.\nKrís-te, áu-di nos. Krís-te, ek-sáu-di nos.\nPá-ter de ché-lis, Dé-us, mi-se-ré-re nó-bis.\nFí-li, Re-démp-tor mún-di, Dé-us, mi-se-ré-re nó-bis.\nSpí-ri-tus Sánk-te, Dé-us, mi-se-ré-re nó-bis.\nSánk-ta Trí-ni-tas, ú-nus Dé-us, mi-se-ré-re nó-bis.\n\nSánk-ta Ma-rí-a, ó-ra pro nó-bis.\nSánk-ta Dé-i Yé-ni-triks, ó-ra pro nó-bis.\nSánk-ta Vír-go vír-yi-num, ó-ra pro nó-bis.\nMá-ter Krís-ti, ó-ra pro nó-bis.\nMá-ter di-ví-ne grá-tsi-e, ó-ra pro nó-bis.\nMá-ter pu-rís-si-ma, ó-ra pro nó-bis.\nMá-ter kas-tís-si-ma, ó-ra pro nó-bis.\nMá-ter in-vi-o-lá-ta, ó-ra pro nó-bis.\nMá-ter in-te-me-rá-ta, ó-ra pro nó-bis.\nMá-ter a-má-bi-lis, ó-ra pro nó-bis.\nMá-ter ad-mi-rá-bi-lis, ó-ra pro nó-bis.\nMá-ter bó-ni kon-sí-li-i, ó-ra pro nó-bis.\nMá-ter Kre-a-tó-ris, ó-ra pro nó-bis.\nMá-ter Sal-va-tó-ris, ó-ra pro nó-bis.\nVír-go pru-den-tís-si-ma, ó-ra pro nó-bis.\nVír-go ve-ne-rán-da, ó-ra pro nó-bis.\nVír-go pre-di-kán-da, ó-ra pro nó-bis.\nVír-go pó-tens, ó-ra pro nó-bis.\nVír-go klé-mens, ó-ra pro nó-bis.\nVír-go fi-dé-lis, ó-ra pro nó-bis.\nSpé-ku-lum yus-tí-tsi-e, ó-ra pro nó-bis.\nSé-des sa-pi-én-tsi-e, ó-ra pro nó-bis.\nKáu-sa nós-tre le-tí-tsi-e, ó-ra pro nó-bis.\nVas spi-ri-tu-á-le, ó-ra pro nó-bis.\nVas o-no-rá-bi-le, ó-ra pro nó-bis.\nVas in-sí-ñe de-vo-tsi-ó-nis, ó-ra pro nó-bis.\nRó-sa mís-ti-ka, ó-ra pro nó-bis.\nTúr-ris Da-ví-di-ka, ó-ra pro nó-bis.\nTúr-ris e-búr-ne-a, ó-ra pro nó-bis.\nDó-mus áu-re-a, ó-ra pro nó-bis.\nFé-de-ris ár-ka, ó-ra pro nó-bis.\nYá-nu-a ché-li, ó-ra pro nó-bis.\nStél-la ma-tu-tí-na, ó-ra pro nó-bis.\nSá-lus in-fir-mó-rum, ó-ra pro nó-bis.\nRe-fú-yi-um pek-ka-tó-rum, ó-ra pro nó-bis.\nKon-so-lá-triks af-flik-tó-rum, ó-ra pro nó-bis.\nAuk-sí-li-um Kris-ti-a-nó-rum, ó-ra pro nó-bis.\nRe-yí-na An-ye-ló-rum, ó-ra pro nó-bis.\nRe-yí-na Pa-tri-ar-ká-rum, ó-ra pro nó-bis.\nRe-yí-na Pro-fe-tá-rum, ó-ra pro nó-bis.\nRe-yí-na A-pos-to-ló-rum, ó-ra pro nó-bis.\nRe-yí-na Már-ti-rum, ó-ra pro nó-bis.\nRe-yí-na Kon-fes-só-rum, ó-ra pro nó-bis.\nRe-yí-na Vír-yi-num, ó-ra pro nó-bis.\nRe-yí-na Sank-tó-rum óm-ni-um, ó-ra pro nó-bis.\nRe-yí-na sí-ne lá-be o-ri-yi-ná-li kon-chép-ta, ó-ra pro nó-bis.\nRe-yí-na in ché-lum as-súmp-ta, ó-ra pro nó-bis.\nRe-yí-na sa-kra-tís-si-mi Ro-sá-ri-i, ó-ra pro nó-bis.\nRe-yí-na pá-chis, ó-ra pro nó-bis.\n\nÁ-ñus Dé-i, kuí tól-lis pek-ká-ta mún-di, pár-che nó-bis, Dó-mi-ne.\nÁ-ñus Dé-i, kuí tól-lis pek-ká-ta mún-di, ek-sáu-di nos, Dó-mi-ne.\nÁ-ñus Dé-i, kuí tól-lis pek-ká-ta mún-di, mi-se-ré-re nó-bis.",
+      "texto_es": "Señor, ten piedad. Cristo, ten piedad. Señor, ten piedad.\nCristo, óyenos. Cristo, escúchanos.\nDios, Padre celestial, ten piedad de nosotros.\nDios Hijo, Redentor del mundo, ten piedad de nosotros.\nDios Espíritu Santo, ten piedad de nosotros.\nSantísima Trinidad, que eres un solo Dios, ten piedad de nosotros.\n\nSanta María, ruega por nosotros.\nSanta Madre de Dios, ruega por nosotros.\nSanta Virgen de las vírgenes, ruega por nosotros.\nMadre de Cristo, ruega por nosotros.\nMadre de la divina gracia, ruega por nosotros.\nMadre purísima, ruega por nosotros.\nMadre castísima, ruega por nosotros.\nMadre siempre virgen, ruega por nosotros.\nMadre incorrupta, ruega por nosotros.\nMadre amable, ruega por nosotros.\nMadre admirable, ruega por nosotros.\nMadre del buen consejo, ruega por nosotros.\nMadre del Creador, ruega por nosotros.\nMadre del Salvador, ruega por nosotros.\nVirgen prudentísima, ruega por nosotros.\nVirgen digna de veneración, ruega por nosotros.\nVirgen digna de alabanza, ruega por nosotros.\nVirgen poderosa, ruega por nosotros.\nVirgen clemente, ruega por nosotros.\nVirgen fiel, ruega por nosotros.\nEspejo de justicia, ruega por nosotros.\nTrono de la sabiduría, ruega por nosotros.\nCausa de nuestra alegría, ruega por nosotros.\nVaso espiritual, ruega por nosotros.\nVaso digno de honor, ruega por nosotros.\nVaso insigne de devoción, ruega por nosotros.\nRosa mística, ruega por nosotros.\nTorre de David, ruega por nosotros.\nTorre de marfil, ruega por nosotros.\nCasa de oro, ruega por nosotros.\nArca de la Alianza, ruega por nosotros.\nPuerta del cielo, ruega por nosotros.\nEstrella de la mañana, ruega por nosotros.\nSalud de los enfermos, ruega por nosotros.\nRefugio de los pecadores, ruega por nosotros.\nConsoladora de los afligidos, ruega por nosotros.\nAuxilio de los cristianos, ruega por nosotros.\nReina de los Ángeles, ruega por nosotros.\nReina de los Patriarcas, ruega por nosotros.\nReina de los Profetas, ruega por nosotros.\nReina de los Apóstoles, ruega por nosotros.\nReina de los Mártires, ruega por nosotros.\nReina de los Confesores, ruega por nosotros.\nReina de las Vírgenes, ruega por nosotros.\nReina de todos los Santos, ruega por nosotros.\nReina concebida sin mancha de pecado original, ruega por nosotros.\nReina asunta a los Cielos, ruega por nosotros.\nReina del Santísimo Rosario, ruega por nosotros.\nReina de la paz, ruega por nosotros.\n\nCordero de Dios, que quitas los pecados del mundo, perdónanos, Señor.\nCordero de Dios, que quitas los pecados del mundo, escúchanos, Señor.\nCordero de Dios, que quitas los pecados del mundo, ten misericordia de nosotros.",
+      "nota": "Letanías Lauretanas de Nuestra Señora con su pronunciación figurada completa."
+    },
+    "oremus_final": {
+      "id": "oremus_final",
+      "titulo_la": "Orémus Conclusiónis",
+      "pron_la": "(: o-ré-mus kon-klu-si-ó-nis)",
+      "titulo_es": "Oración Final del Santo Rosario",
+      "audio_m4a": "",
+      "texto_la": "Orémus.\nDeus, cujus Unigénitus per vitam, mortem et resurrectiónem suam nobis salútis ætérnæ præmia comparávit: concéde, quæsumus; ut hæc mystéria sacratíssimo beátæ Maríæ Vírginis Rosário recoléntes, et imitémur quod cóntinent, et quod promíttunt assequámur. Per eúndem Christum Dóminum nostrum. Amen.\n\nV. Divínum auxílium máneat semper nobíscum.\nR. Amen.\nV. Et fidélium ánimæ per misericórdiam Dei requiéscant in pace.\nR. Amen.",
+      "lectura_fonetica_es": "O-ré-mus.\nDé-us, kú-yus U-ni-yé-ni-tus per ví-tam, mór-tem et re-sur-rek-tsi-ó-nem sú-am nó-bis sa-lú-tis e-tér-ne pré-mi-a kom-pa-rá-vit: kon-ché-de, kué-su-mus; ut ek mis-té-ri-a sa-kra-tís-si-mo be-á-te Ma-rí-e Vír-yi-nis Ro-sá-ri-o re-ko-lén-tes, et i-mi-té-mur kuód kón-ti-nent, et kuód pro-mít-tunt as-se-kuá-mur. Per e-ún-dem Krís-tum Dó-mi-num nós-trum. Á-men.\n\nV. Di-ví-num auk-sí-li-um má-ne-at sém-per no-bís-kum.\nR. Á-men.\nV. Et fi-dé-li-um á-ni-me per mi-se-ri-kór-di-am Dé-i re-kui-és-kant in pá-che.\nR. Á-men.",
+      "texto_es": "Oremos.\nOh Dios, cuyo Unigénito Hijo, con su vida, muerte y resurrección, nos alcanzó el premio de la vida eterna: concédenos, a los que recordamos estos misterios del Santo Rosario de la Bienaventurada Virgen María, imitar lo que contienen y alcanzar lo que prometen. Por el mismo Jesucristo Nuestro Señor. Amén.\n\nV. El auxilio divino permanezca siempre con nosotros.\nR. Amén.\nV. Y las almas de los fieles difuntos, por la misericordia de Dios, descansen en paz.\nR. Amén.",
+      "nota": "Colecta oficial del Santo Rosario en el Missale Romanum (: mis-sá-le ro-má-num)."
+    }
+  }
+}

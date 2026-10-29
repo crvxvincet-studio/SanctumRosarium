@@ -1,0 +1,768 @@
+{
+  "meta": {
+    "titulo": "Quindecim Mysteria Sacratissimi Rosarii",
+    "version": "Beta 1",
+    "criterio": "Quince Misterios Tradicionales pre-1958 divididos en tres coronas (Gaudiosa, Dolorosa, Gloriosa), con tres citas bíblicas y tres meditaciones tradicionales rotativas por misterio para fomentar el conocimiento de la Sagrada Escritura y la doctrina católica.",
+    "asignacionSemanal": {
+      "1": "gaudiosa",
+      "2": "dolorosa",
+      "3": "gloriosa",
+      "4": "gaudiosa",
+      "5": "dolorosa",
+      "6": "gloriosa",
+      "0": "gloriosa"
+    }
+  },
+  "series": {
+    "gaudiosa": {
+      "id": "gaudiosa",
+      "nombre_la": "Mystéria Gaudiósa",
+      "pron_la": "(: mis-té-ri-a gau-di-ó-sa)",
+      "nombre_es": "Misterios Gozosos",
+      "dias_es": "Lunes y Jueves (y Domingos de Adviento hasta Septuagésima)",
+      "color_liturgico": "#c8a236",
+      "misterios": [
+        {
+          "num": 1,
+          "romano": "Mysterium I",
+          "titulo_la": "Angelus Domini nuntiavit Mariae",
+          "pron_la": "(: án-ye-lus dó-mi-ni nun-tsi-á-vit ma-rí-e)",
+          "titulo_es": "La Encarnación del Verbo",
+          "fruto_la": "Pétimus: Humilitátem cordis",
+          "fruto_es": "Pedimos: La humildad",
+          "citasBiblicas": [
+            {
+              "ref": "San Lucas, capítulo primero, versículo veintiocho",
+              "texto_la": "Et ingréssus Ángelus ad eam dixit: Ave, grátia plena: Dóminus tecum: benedícta tu in muliéribus.",
+              "texto_es": "Y entrando el Ángel a donde Ella estaba, dijo: Dios te salve, llena de gracia, el Señor es contigo; bendita tú eres entre todas las mujeres.",
+              "lectura_fonetica_es": "Et in-grés-sus Án-ye-lus ad é-am dík-sit: Á-ve, grá-tsi-a plé-na: Dó-mi-nus té-kum: be-ne-dík-ta tu in mu-li-é-ri-bus."
+            },
+            {
+              "ref": "San Lucas, capítulo primero, versículos treinta y cinco a treinta y ocho",
+              "texto_la": "Spíritus Sanctus supervéniet in te, et virtus Altíssimi obumbrábit tibi... Dixit autem María: Ecce ancílla Dómini, fiat mihi secúndum verbum tuum.",
+              "texto_es": "El Espíritu Santo descenderá sobre ti, y la virtud del Altísimo te cubrirá con su sombra... Dijo entonces María: He aquí la esclava del Señor; hágase en mí según tu palabra.",
+              "lectura_fonetica_es": "Spí-ri-tus Sánk-tus su-per-vé-ni-et in te, et vír-tus Al-tís-si-mi o-bum-brá-bit tí-bi... Dík-sit áu-tem Ma-rí-a: Ék-che an-chíl-la Dó-mi-ni, fí-at mí-ki se-kún-dum vér-bum tú-um."
+            },
+            {
+              "ref": "San Juan, capítulo primero, versículo catorce",
+              "texto_la": "Et Verbum caro factum est, et habitávit in nobis: et vídimus glóriam ejus, glóriam quasi Unigéniti a Patre, plenum grátiæ et veritátis.",
+              "texto_es": "Y el Verbo se hizo carne, y habitó entre nosotros; y vimos su gloria, gloria como de Unigénito del Padre, lleno de gracia y de verdad.",
+              "lectura_fonetica_es": "Et Vér-bum ká-ro fák-tum est, et a-bi-tá-vit in nó-bis: et ví-di-mus gló-ri-am é-yus, gló-ri-am kuá-si U-ni-yé-ni-ti a Pá-tre, plé-num grá-tsi-e et ve-ri-tá-tis."
+            }
+          ],
+          "meditaciones": [
+            "Contemplemos cómo el Verbo Eterno, igual al Padre en majestad, desciende al seno purísimo de María Santísima al pronunciar Ella su «Fiat» humilde y obediente. Pidamos la gracia de someter siempre nuestro juicio y voluntad a los decretos santísimos de Dios.",
+            "Enseña San Luis María Grignion de Montfort (: gri-ñón de mon-fór) que Dios Padre juntó todas las aguas de la gracia y las llamó María: en este misterio el Cielo se abre por la humildad de la Virgen Nazarena, reparando la soberbia de nuestros primeros padres.",
+            "Meditemos con el Catecismo Romano que el misterio de la Encarnación es obra de la Santísima Trinidad e inicio de nuestra salud eterna; adoremos a Jesucristo verdadero Dios y verdadero Hombre desde el primer instante de su concepción."
+          ],
+          "arteCC0": {
+            "id": "gaudiosa_1",
+            "obra": "La Anunciación (retablo de Cortona / Prado)",
+            "autor": "Fra Angelico (Beato Juan de Fiesole, fallecido en 1455)",
+            "museo": "Museo Nacional del Prado / Dominio Público PD-100",
+            "licencia": "CC0 1.0 / PD-100",
+            "archivoLocal": "assets/img/misterios/gaudiosa-1-anunciacion.svg",
+            "urlMuseo": "https://commons.wikimedia.org/wiki/File:La_Anunciaci%C3%B3n,_by_Fra_Angelico,_from_Prado_in_Google_Earth.jpg",
+            "simbolo": "lilium",
+            "sha256_local": "d78c4aca99b36d2175c7af93cefa43481f6a5c1eb2de808fc87782d38a8bb4b7",
+            "archivoJpgUsuario": "assets/img/misterios/gaudiosa-1.jpg",
+            "nombreArchivoSugerido": "gaudiosa-1.jpg"
+          },
+          "lectura_misterio_es": "Mís-té-ri-um Prí-mum: Án-ye-lus Dó-mi-ni nun-tsi-á-vit Ma-rí-e. Pé-ti-mus u-mi-li-tá-tem kór-dis."
+        },
+        {
+          "num": 2,
+          "romano": "Mysterium II",
+          "titulo_la": "Maria visitavit Elisabeth",
+          "pron_la": "(: ma-rí-a vi-si-tá-vit e-lí-sa-bet)",
+          "titulo_es": "La Visitación a Santa Isabel",
+          "fruto_la": "Pétimus: Caritátem erga próximum",
+          "fruto_es": "Pedimos: La caridad al prójimo",
+          "citasBiblicas": [
+            {
+              "ref": "San Lucas, capítulo primero, versículos cuarenta y uno a cuarenta y dos",
+              "texto_la": "Et factum est, ut audívit salutatiónem Maríæ Elísabeth, exsultávit infans in útero ejus: et repléta est Spíritu Sancto Elísabeth.",
+              "texto_es": "Y aconteció que, en cuanto oyó Isabel la salutación de María, saltó de gozo el niño en su seno, e Isabel quedó llena del Espíritu Santo.",
+              "lectura_fonetica_es": "Et fák-tum est, ut au-dí-vit sa-lu-ta-tsi-ó-nem Ma-rí-e E-lí-sa-bet, ek-sul-tá-vit ín-fans in ú-te-ro é-yus: et re-plé-ta est Spí-ri-tu Sánk-to E-lí-sa-bet."
+            },
+            {
+              "ref": "San Lucas, capítulo primero, versículos cuarenta y seis a cuarenta y nueve",
+              "texto_la": "Magníficat ánima mea Dóminum: et exsultávit spíritus meus in Deo salutári meo. Quia respéxit humilitátem ancíllæ suæ.",
+              "texto_es": "Engrandece mi alma al Señor, y mi espíritu se regocija en Dios mi Salvador; porque ha puesto los ojos en la bajeza de su esclava.",
+              "lectura_fonetica_es": "Ma-ñí-fi-kat á-ni-ma mé-a Dó-mi-num: et ek-sul-tá-vit spí-ri-tus mé-us in Dé-o sa-lu-tá-ri mé-o. Kuí-a res-pék-sit u-mi-li-tá-tem an-chíl-le sú-e."
+            },
+            {
+              "ref": "San Lucas, capítulo primero, versículo cuarenta y cinco",
+              "texto_la": "Et beáta, quæ credidísti, quóniam perficiéntur ea, quæ dicta sunt tibi a Dómino.",
+              "texto_es": "Y bienaventurada tú que has creído, porque se cumplirán las cosas que se te han dicho de parte del Señor.",
+              "lectura_fonetica_es": "Et be-á-ta, kué kre-di-dís-ti, kuó-ni-am per-fi-chi-én-tur é-a, kué dík-ta sunt tí-bi a Dó-mi-no."
+            }
+          ],
+          "meditaciones": [
+            "Llevando en su claustro virginal al Verbo Encarnado, Nuestra Señora acude con diligencia a las montañas de Judea para asistir a su prima Santa Isabel. A la voz de María, San Juan Bautista queda santificado antes de nacer.",
+            "Consideremos con Fray Luis de Granada cómo la verdadera devoción a Dios jamás se encierra en la ociosidad, sino que se derrama en obras prontas de misericordia espiritual y corporal hacia el prójimo por amor de Dios.",
+            "Escuchemos el cántico del Magníficat: María Santísima atribuye toda grandeza a la omnipotencia y misericordia de Dios, enseñándonos a dar gloria al Señor por todo bien recibido."
+          ],
+          "arteCC0": {
+            "id": "gaudiosa_2",
+            "obra": "La Visitación de la Virgen a Santa Isabel",
+            "autor": "Domenico Ghirlandaio (fallecido en 1494)",
+            "museo": "Musée du Louvre / Dominio Público PD-100",
+            "licencia": "CC0 1.0 / PD-100",
+            "archivoLocal": "assets/img/misterios/gaudiosa-2-visitacion.svg",
+            "urlMuseo": "https://commons.wikimedia.org/wiki/File:Domenico_Ghirlandaio_-_The_Visitation_-_WGA08849.jpg",
+            "simbolo": "magnificat",
+            "sha256_local": "8052e9ba579af71b6a91792e828a0e0d7f7241b4d2d45dfc5c30103d8cd486b6",
+            "archivoJpgUsuario": "assets/img/misterios/gaudiosa-2.jpg",
+            "nombreArchivoSugerido": "gaudiosa-2.jpg"
+          },
+          "lectura_misterio_es": "Mís-té-ri-um Se-kún-dum: Ma-rí-a vi-si-tá-vit E-lí-sa-bet. Pé-ti-mus ka-ri-tá-tem ér-ga prók-si-mum."
+        },
+        {
+          "num": 3,
+          "romano": "Mysterium III",
+          "titulo_la": "Jesus in Bethlehem natus est",
+          "pron_la": "(: yé-sus in bét-le-em ná-tus est)",
+          "titulo_es": "El Nacimiento de Nuestro Señor",
+          "fruto_la": "Pétimus: Paupertátem spíritus",
+          "fruto_es": "Pedimos: La pobreza de espíritu",
+          "citasBiblicas": [
+            {
+              "ref": "San Lucas, capítulo segundo, versículos seis a siete",
+              "texto_la": "Et Pépĕrit Fílium suum primogénitum, et pannis eum invólvit, et reclinávit eum in præsépio: quia non erat eis locus in diversório.",
+              "texto_es": "Y dio a luz a su Hijo primogénito, y le envolvió en pañales, y le reclinó en un pesebre, porque no había lugar para ellos en el mesón.",
+              "lectura_fonetica_es": "Et pé-pe-rit Fí-li-um sú-um pri-mo-yé-ni-tum, et pán-nis é-um in-vól-vit, et re-kli-ná-vit é-um in pre-sé-pi-o: kuí-a non é-rat é-is ló-kus in di-ver-só-ri-o."
+            },
+            {
+              "ref": "San Lucas, capítulo segundo, versículo catorce",
+              "texto_la": "Glória in altíssimis Deo, et in terra pax homínibus bonæ voluntátis.",
+              "texto_es": "Gloria a Dios en las alturas, y en la tierra paz a los hombres de buena voluntad.",
+              "lectura_fonetica_es": "Gló-ri-a in al-tís-si-mis Dé-o, et in tér-ra paks o-mí-ni-bus bó-ne vo-lun-tá-tis."
+            },
+            {
+              "ref": "Isaías, capítulo nueve, versículo seis",
+              "texto_la": "Párvulus enim natus est nobis, et fílius datus est nobis, et factus est principátus super húmerum ejus.",
+              "texto_es": "Porque un Niño nos ha nacido, un Hijo nos ha sido dado, y lleva sobre su hombro el principado.",
+              "lectura_fonetica_es": "Pár-vu-lus é-nim ná-tus est nó-bis, et fí-li-us dá-tus est nó-bis, et fák-tus est prin-chi-pá-tus sú-per ú-me-rum é-yus."
+            }
+          ],
+          "meditaciones": [
+            "El Rey de reyes y Señor del universo elige nacer en el rigor del invierno, en un pobre establo de Belén, reclinado sobre pajas entre María Santísima y el castísimo Patriarca San José. Aprendamos a despreciar la vanidad y pompa del mundo.",
+            "Como el rayo de sol atraviesa el cristal sin romperlo ni mancharlo, así nació Nuestro Señor Jesucristo del seno virginal de su Madre Santísima, consagrando su integridad perpetua.",
+            "Observemos que la paz anunciada por los Ángeles en Belén se promete a los «hombres de buena voluntad», esto es, a las almas rectas que viven en gracia de Dios y guardan sus santos mandamientos."
+          ],
+          "arteCC0": {
+            "id": "gaudiosa_3",
+            "obra": "La Adoración de los Pastores",
+            "autor": "Bartolomé Esteban Murillo (fallecido en 1682)",
+            "museo": "Museo Nacional del Prado / Dominio Público PD-100",
+            "licencia": "CC0 1.0 / PD-100",
+            "archivoLocal": "assets/img/misterios/gaudiosa-3-natividad.svg",
+            "urlMuseo": "https://commons.wikimedia.org/wiki/File:Adoraci%C3%B3n_de_los_pastores_(Murillo).jpg",
+            "simbolo": "stella",
+            "sha256_local": "1c58fba6684b3399526525284443976dda77ee95941ec70a86fd89acd3cdeff4",
+            "archivoJpgUsuario": "assets/img/misterios/gaudiosa-3.jpg",
+            "nombreArchivoSugerido": "gaudiosa-3.jpg"
+          },
+          "lectura_misterio_es": "Mís-té-ri-um Tér-tsi-um: Yé-sus in Bét-le-em ná-tus est. Pé-ti-mus pau-per-tá-tem spí-ri-tus."
+        },
+        {
+          "num": 4,
+          "romano": "Mysterium IV",
+          "titulo_la": "Puer Jesus in Templo praesentatus est",
+          "pron_la": "(: pú-er yé-sus in tém-plo pre-sen-tá-tus est)",
+          "titulo_es": "Presentación del Señor en el Templo y la Purificación de Nuestra Señora",
+          "fruto_la": "Pétimus: Obediéntiam",
+          "fruto_es": "Pedimos: La obediencia",
+          "citasBiblicas": [
+            {
+              "ref": "San Lucas, capítulo segundo, versículos veintinueve a treinta y dos",
+              "texto_la": "Nunc dimíttis servum tuum, Dómine, secúndum verbum tuum in pace: Quia vidérunt óculi mei salutáre tuum... Lumen ad revelatiónem géntium.",
+              "texto_es": "Ahora, Señor, despides a tu siervo en paz según tu palabra; porque mis ojos han visto a tu Salvador... Luz para alumbrar a las naciones.",
+              "lectura_fonetica_es": "Nunk di-mít-tis sér-vum tú-um, Dó-mi-ne, se-kún-dum vér-bum tú-um in pá-che: Kuí-a vi-dé-runt ó-ku-li mé-i sa-lu-tá-re tú-um... Lú-men ad re-ve-la-tsi-ó-nem yén-tsi-um."
+            },
+            {
+              "ref": "San Lucas, capítulo segundo, versículos treinta y cuatro a treinta y cinco",
+              "texto_la": "Ecce pósitus est hic in ruínam, et in resurrectiónem multórum in Israël, et in signum cui contradicétur: Et tuam ipsíus ánimam pertransíbit gládius.",
+              "texto_es": "He aquí que este Niño está puesto para ruina y para resurrección de muchos en Israel, y como blanco de contradicción; y a tu misma alma la traspasará una espada.",
+              "lectura_fonetica_es": "Ék-che pó-si-tus est ik in ru-í-nam, et in re-sur-rek-tsi-ó-nem mul-tó-rum in Ís-ra-el, et in sí-ñum ku-i kon-tra-di-ché-tur: Et tú-am ip-sí-us á-ni-mam per-tran-sí-bit glá-di-us."
+            },
+            {
+              "ref": "Malaquías, capítulo tercero, versículo primero",
+              "texto_la": "Et statim véniet ad templum suum Dominátor, quem vos quǽritis, et Ángelus testaménti, quem vos vultis.",
+              "texto_es": "Y luego vendrá a su Templo el Soberano Señor a quien vosotros buscáis, y el Ángel del Testamento a quien deseáis.",
+              "lectura_fonetica_es": "Et stá-tim vé-ni-et ad tém-plum sú-um Do-mi-ná-tor, kuém vos kué-ri-tis, et Án-ye-lus tes-ta-mén-ti, kuém vos vúl-tis."
+            }
+          ],
+          "meditaciones": [
+            "No estando obligados a la ley de la purificación ni el Hijo de Dios ni su Madre Inmaculada, se sujetan humildemente al precepto legal, ofreciéndose al Padre Eterno en el Templo de Jerusalén.",
+            "El santo anciano Simeón profetiza que el Niño Divino será signo de contradicción y que una espada de dolor traspasará el Corazón Inmaculado de María al pie de la Cruz. Unamos nuestros sacrificios a su oblación.",
+            "Pidamos por intercesión de Nuestra Señora de la Candelaria la pureza de cuerpo y de espíritu, y la pronta obediencia a los preceptos de Dios y de la Santa Madre Iglesia."
+          ],
+          "arteCC0": {
+            "id": "gaudiosa_4",
+            "obra": "La Presentación de Jesús en el Templo",
+            "autor": "Fra Angelico (Beato Juan de Fiesole, fallecido en 1455)",
+            "museo": "Museo di San Marco, Florencia / Dominio Público PD-100",
+            "licencia": "CC0 1.0 / PD-100",
+            "archivoLocal": "assets/img/misterios/gaudiosa-4-presentacion.svg",
+            "urlMuseo": "https://commons.wikimedia.org/wiki/File:Fra_Angelico_-_Presentation_of_Jesus_at_the_Temple_-_WGA00553.jpg",
+            "simbolo": "candelabrum",
+            "sha256_local": "e6106d3ba24d7ccc4c685dd96906367623c3d9c0bda3859b89fd7cccf5d1b539",
+            "archivoJpgUsuario": "assets/img/misterios/gaudiosa-4.jpg",
+            "nombreArchivoSugerido": "gaudiosa-4.jpg"
+          },
+          "lectura_misterio_es": "Mís-té-ri-um Kuár-tum: Pú-er Yé-sus in Tém-plo pre-sen-tá-tus est. Pé-ti-mus o-be-di-én-tsi-am."
+        },
+        {
+          "num": 5,
+          "romano": "Mysterium V",
+          "titulo_la": "Puer Jesus in Templo inventus est",
+          "pron_la": "(: pú-er yé-sus in tém-plo in-vén-tus est)",
+          "titulo_es": "Hallazgo del Señor en el Templo instruyendo a los doctores de la Ley",
+          "fruto_la": "Pétimus: Cognitiónem voluntátis Dei",
+          "fruto_es": "Pedimos: Conocer la voluntad de Dios",
+          "citasBiblicas": [
+            {
+              "ref": "San Lucas, capítulo segundo, versículo cuarenta y seis",
+              "texto_la": "Et factum est, post tríduum invenérunt illum in templo sedéntem in médio doctórum, audiéntem illos, et interrogántem eos.",
+              "texto_es": "Y aconteció que, al cabo de tres días, le hallaron en el Templo sentado en medio de los doctores, oyéndoles y preguntándoles.",
+              "lectura_fonetica_es": "Et fák-tum est, post trí-du-um in-ve-né-runt íl-lum in tém-plo se-dén-tem in mé-di-o dok-tó-rum, au-di-én-tem íl-los, et in-ter-ro-gán-tem é-os."
+            },
+            {
+              "ref": "San Lucas, capítulo segundo, versículo cuarenta y nueve",
+              "texto_la": "Et dixit ad eos: Quid est quod me quærebátis? nesciebátis quia in his, quæ Patris mei sunt, opórtet me esse?",
+              "texto_es": "Y Él les dijo: ¿Por qué me buscabais? ¿No sabíais que me conviene ocuparme en las cosas que son de mi Padre?",
+              "lectura_fonetica_es": "Et dík-sit ad é-os: Kuíd est kuód me kue-re-bá-tis? ne-shi-e-bá-tis kuí-a in is, kué Pá-tris mé-i sunt, o-pór-tet me és-se?"
+            },
+            {
+              "ref": "San Lucas, capítulo segundo, versículo cincuenta y uno",
+              "texto_la": "Et descéndit cum eis, et venit Názareth: et erat súbditus illis. Et Mater ejus conservábat ómnia verba hæc in corde suo.",
+              "texto_es": "Y bajó con ellos y vino a Nazaret, y les estaba sujeto. Y su Madre conservaba todas estas palabras en su corazón.",
+              "lectura_fonetica_es": "Et de-shén-dit kum é-is, et vé-nit Ná-za-ret: et é-rat súb-di-tus íl-lis. Et Má-ter é-yus kon-ser-vá-bat óm-ni-a vér-ba ek in kór-de sú-o."
+            }
+          ],
+          "meditaciones": [
+            "Si María y José buscaron con tanto dolor durante tres días al Niño Jesús sin tener culpa alguna, ¡con cuánta diligencia y contrición debe el alma buscar a Dios en el Sacramento de la Penitencia si por desgracia lo hubiere perdido por el pecado!",
+            "Jesús, Sabiduría Eterna del Padre, enseña en el Templo y luego desciende a Nazaret para vivir treinta años sujeto a María y a San José. Aprendamos el valor santificador del deber cotidiano cumplido en silencio.",
+            "Ponga el cristiano por encima de todo afecto terreno los intereses de la gloria de Dios: «¿No sabíais que debo ocuparme en las cosas de mi Padre?»."
+          ],
+          "arteCC0": {
+            "id": "gaudiosa_5",
+            "obra": "Cristo entre los Doctores en el Templo",
+            "autor": "Duccio di Buoninsegna (fallecido en 1319)",
+            "museo": "Museo dell'Opera del Duomo, Siena / Dominio Público PD-100",
+            "licencia": "CC0 1.0 / PD-100",
+            "archivoLocal": "assets/img/misterios/gaudiosa-5-templo.svg",
+            "urlMuseo": "https://commons.wikimedia.org/wiki/File:Duccio_di_Buoninsegna_-_Christ_among_the_Doctors_-_WGA06794.jpg",
+            "simbolo": "templum",
+            "sha256_local": "ce5b3d5527819614d34f8344ed968a4aeb1a24f4536439e079a52883c9c8706b",
+            "archivoJpgUsuario": "assets/img/misterios/gaudiosa-5.jpg",
+            "nombreArchivoSugerido": "gaudiosa-5.jpg"
+          },
+          "lectura_misterio_es": "Mís-té-ri-um Kuín-tum: Pú-er Yé-sus in Tém-plo in-vén-tus est. Pé-ti-mus ko-ñi-tsi-ó-nem vo-lun-tá-tis Dé-i."
+        }
+      ]
+    },
+    "dolorosa": {
+      "id": "dolorosa",
+      "nombre_la": "Mystéria Dolorósa",
+      "pron_la": "(: mis-té-ri-a do-lo-ró-sa)",
+      "nombre_es": "Misterios Dolorosos",
+      "dias_es": "Martes y Viernes (y todos los Domingos de Cuaresma)",
+      "color_liturgico": "#7a1f28",
+      "misterios": [
+        {
+          "num": 1,
+          "romano": "Mysterium I",
+          "titulo_la": "Jesus in Horto Gethsemani oravit",
+          "pron_la": "(: yé-sus in ór-to yet-sé-ma-ni o-rá-vit)",
+          "titulo_es": "La agonía del Señor en el Huerto",
+          "fruto_la": "Pétimus: Dolórem de peccátis nostris",
+          "fruto_es": "Pedimos: Dolor por nuestros pecados",
+          "citasBiblicas": [
+            {
+              "ref": "San Lucas, capítulo veintidós, versículos cuarenta y dos a cuarenta y cuatro",
+              "texto_la": "Pater, si vis, transfer cálicem istum a me: Verúmtamen non mea volúntas, sed tua fiat... Et factus in agónia, prolíxius orábat. Et factus est sudor ejus, sicut guttæ sánguinis decurréntis in terram.",
+              "texto_es": "Padre, si quieres, traspasa de mí este cáliz; mas no se haga mi voluntad, sino la tuya... Y puesto en agonía, oraba con mayor instancia; y su sudor se hizo como gotas de sangre que corrían hasta la tierra.",
+              "lectura_fonetica_es": "Pá-ter, si vis, tráns-fer ká-li-chem ís-tum a me: Ve-rúm-ta-men non mé-a vo-lún-tas, sed tú-a fí-at... Et fák-tus est sú-dor é-yus, sí-kut gút-te sán-gui-nis de-kur-rén-tis in tér-ram."
+            },
+            {
+              "ref": "San Mateo, capítulo veintiséis, versículo cuarenta y uno",
+              "texto_la": "Vigiláte, et oráte ut non intrétis in tentatiónem. Spíritus quidem promptus est, caro autem infírma.",
+              "texto_es": "Velad y orad para que no entréis en tentación; el espíritu a la verdad está pronto, mas la carne es flaca.",
+              "lectura_fonetica_es": "Vi-yi-lá-te, et o-rá-te ut non in-tré-tis in ten-ta-tsi-ó-nem. Spí-ri-tus kuí-dem prómp-tus est, ká-ro áu-tem in-fír-ma."
+            },
+            {
+              "ref": "San Mateo, capítulo veintiséis, versículo treinta y ocho",
+              "texto_la": "Tunc ait illis: Tristis est ánima mea usque ad mortem: sustinéte hic, et vigiláte mecum.",
+              "texto_es": "Entonces les dijo: Triste está mi alma hasta la muerte; esperad aquí y velad conmigo.",
+              "lectura_fonetica_es": "Tunk á-it íl-lis: Trís-tis est á-ni-ma mé-a ús-kue ad mór-tem: sus-ti-né-te ik, et vi-yi-lá-te mé-kum."
+            }
+          ],
+          "meditaciones": [
+            "En el Huerto de los Olivos, Nuestro Señor Jesucristo toma sobre Sí la vista horrible de todos los pecados del linaje humano y la ingratitud de las almas, sudando Sangre preciosísima que riega la tierra.",
+            "Mientras los Apóstoles duermen vencidos por la tristeza, Cristo prolonga su oración y pronuncia el acto supremo de obediencia: «No se haga mi voluntad, sino la tuya». Aprendamos a perseverar en la oración precisamente en la hora de la tribulación.",
+            "Detestemos de todo corazón el pecado mortal y aun el venial deliberado, pues fueron nuestras culpas las que oprimieron el Corazón Sacratísimo de Jesús en Getsemaní."
+          ],
+          "arteCC0": {
+            "id": "dolorosa_1",
+            "obra": "La Oración en el Huerto (Agonía en Getsemaní)",
+            "autor": "El Greco (Doménikos Theotokópoulos, fallecido en 1614)",
+            "museo": "Toledo Museum of Art / Dominio Público PD-100",
+            "licencia": "CC0 1.0 / PD-100",
+            "archivoLocal": "assets/img/misterios/dolorosa-1-getsemani.svg",
+            "urlMuseo": "https://commons.wikimedia.org/wiki/File:El_Greco_-_The_Agony_in_the_Garden_-_WGA10539.jpg",
+            "simbolo": "calix",
+            "sha256_local": "8292795ccb540bfb7a240593d99e242290b326ffa2e578f483390aa2765be4f6",
+            "archivoJpgUsuario": "assets/img/misterios/dolorosa-1.jpg",
+            "nombreArchivoSugerido": "dolorosa-1.jpg"
+          },
+          "lectura_misterio_es": "Mís-té-ri-um Prí-mum: Yé-sus in Ór-to Yet-sé-ma-ni o-rá-vit. Pé-ti-mus do-ló-rem de pek-ká-tis nós-tris."
+        },
+        {
+          "num": 2,
+          "romano": "Mysterium II",
+          "titulo_la": "Jesus flagellis caesus est",
+          "pron_la": "(: yé-sus fla-yél-lis ché-sus est)",
+          "titulo_es": "La flagelación del Señor",
+          "fruto_la": "Pétimus: Mortificatiónem córporis nostri",
+          "fruto_es": "Pedimos: Mortificación para nuestro cuerpo",
+          "citasBiblicas": [
+            {
+              "ref": "San Juan, capítulo diecinueve, versículo primero",
+              "texto_la": "Tunc ergo apprehéndit Pilátus Jesum, et flagellávit.",
+              "texto_es": "Entonces, pues, tomó Pilato a Jesús y mandó azotarle.",
+              "lectura_fonetica_es": "Tunk ér-go ap-pre-én-dit Pi-lá-tus Yé-sum, et fla-yel-lá-vit."
+            },
+            {
+              "ref": "Isaías, capítulo cincuenta y tres, versículo cinco",
+              "texto_la": "Ipse autem vulnerátus est propter iniquitátes nostras, attrítus est propter scélera nostra: disciplína pacis nostræ super eum, et livóre ejus sanáti sumus.",
+              "texto_es": "Mas Él fue herido por nuestras iniquidades, fue quebrantado por nuestros crímenes; el castigo que nos trae la paz cayó sobre Él, y por sus llagas hemos sido curados.",
+              "lectura_fonetica_es": "Íp-se áu-tem vul-ne-rá-tus est próp-ter i-ni-kui-tá-tes nós-tras, at-trí-tus est próp-ter shé-le-ra nós-tra: di-shi-plí-na pá-chis nós-tre sú-per é-um, et li-vó-re é-yus sa-ná-ti sú-mus."
+            },
+            {
+              "ref": "Salmo ciento veintiocho, versículo tercero",
+              "texto_la": "Supra dorsum meum fabricavérunt peccatóres: prolongavérunt iniquitátem suam.",
+              "texto_es": "Sobre mis espaldas descargaron los pecadores y prolongaron su iniquidad.",
+              "lectura_fonetica_es": "Sú-pra dór-sum mé-um fa-bri-ka-vé-runt pek-ka-tó-res: pro-lon-ga-vé-runt i-ni-kui-tá-tem sú-am."
+            }
+          ],
+          "meditaciones": [
+            "Atado a la columna como cordero mansísimo, el Cuerpo virginal del Hijo de Dios es desgarrado por crueles azotes para expiar los pecados de impureza, sensualidad y regalo desordenado de los hombres.",
+            "Consideremos con San Alfonso María de Ligorio cómo cada llaga de Cristo clama a nuestro corazón que huyamos de las ocasiones de pecado y guardemos con rigor la modestia de los ojos y la templanza.",
+            "Pidamos a la Virgen Santísima amor verdadero a la penitencia cristiana, para no buscar una vida muelle bajo una Cabeza coronada de espinas y llagada en la columna."
+          ],
+          "arteCC0": {
+            "id": "dolorosa_2",
+            "obra": "Cristo atado a la Columna",
+            "autor": "Diego Velázquez (fallecido en 1660)",
+            "museo": "National Gallery, Londres / Dominio Público PD-100",
+            "licencia": "CC0 1.0 / PD-100",
+            "archivoLocal": "assets/img/misterios/dolorosa-2-flagelacion.svg",
+            "urlMuseo": "https://commons.wikimedia.org/wiki/File:Christ_after_the_Flagellation_Contemplated_by_the_Christian_Soul_MET_DP825296.jpg",
+            "simbolo": "columna",
+            "sha256_local": "fe0a6121c13f51e1dc3dea999cc9b25677cc6677c4dcebcf5c511d82a90c2f17",
+            "archivoJpgUsuario": "assets/img/misterios/dolorosa-2.jpg",
+            "nombreArchivoSugerido": "dolorosa-2.jpg"
+          },
+          "lectura_misterio_es": "Mís-té-ri-um Se-kún-dum: Yé-sus fla-yél-lis ché-sus est. Pé-ti-mus mor-ti-fi-ka-tsi-ó-nem kór-po-ris nós-tri."
+        },
+        {
+          "num": 3,
+          "romano": "Mysterium III",
+          "titulo_la": "Jesus spinis coronatus est",
+          "pron_la": "(: yé-sus spí-nis ko-ro-ná-tus est)",
+          "titulo_es": "La coronación de espinas",
+          "fruto_la": "Pétimus: Mortificatiónem mentis nostræ",
+          "fruto_es": "Pedimos: Mortificación para nuestra mente",
+          "citasBiblicas": [
+            {
+              "ref": "San Mateo, capítulo veintisiete, versículos veintiocho a veintinueve",
+              "texto_la": "Et exuéntes eum, chlámyde coccínea circumdedérunt eum, et plecténtes corónam de spinis, posuérunt super caput ejus, et arúndinem in déxtera ejus.",
+              "texto_es": "Y desnudándole, le pusieron encima un manto de grana; y tejiendo una corona de espinas, se la pusieron sobre su cabeza, y una caña en su mano derecha.",
+              "lectura_fonetica_es": "Et ek-su-én-tes é-um, klá-mi-de kok-chí-ne-a chir-kum-de-dé-runt é-um, et plek-tén-tes ko-ró-nam de spí-nis, po-su-é-runt sú-per ká-put é-yus."
+            },
+            {
+              "ref": "San Juan, capítulo diecinueve, versículo quinto",
+              "texto_la": "Exívit ergo Jesus portans corónam spíneam, et purpúreum vestiméntum. Et dicit eis: Ecce homo.",
+              "texto_es": "Salió, pues, Jesús fuera, llevando la corona de espinas y el manto de púrpura. Y díceles Pilato: He aquí el Hombre.",
+              "lectura_fonetica_es": "Ek-sí-vit ér-go Yé-sus pór-tans ko-ró-nam spí-ne-am, et pur-pú-re-um ves-ti-mén-tum. Et dí-chit é-is: Ék-che ó-mo."
+            },
+            {
+              "ref": "Cantar de los Cantares, capítulo tercero, versículo once",
+              "texto_la": "Egredímini et vidéte, fíliæ Sion, regem Salomónem in diadémate, quo coronávit illum mater sua.",
+              "texto_es": "Salid y ved, hijas de Sión, al Rey Salomón con la diadema con que le coronó su madre.",
+              "lectura_fonetica_es": "E-gre-dí-mi-ni et vi-dé-te, fí-li-e Sí-on, ré-yem Sa-lo-mó-nem in di-a-dé-ma-te, kuó ko-ro-ná-vit íl-lum má-ter sú-a."
+            }
+          ],
+          "meditaciones": [
+            "Para curar nuestros pensamientos de soberbia, ambición y rebeldía intelectual contra la verdad revelada, el Rey inmortal de los siglos consiente en ser coronado de agudísimas espinas y escarnecido por la soldadesca.",
+            "Proclamemos con la Encíclica Quas Primas (: kuás prí-mas, «En las primeras») que Jesucristo es Rey soberano de las inteligencias, de las voluntades y de las naciones, y reparemos los ultrajes contra su Realeza social.",
+            "Aceptemos con mansedumbre las humillaciones, contradicciones y calumnias por amor a Jesucristo, recordando que el discípulo no es mayor que su Maestro."
+          ],
+          "arteCC0": {
+            "id": "dolorosa_3",
+            "obra": "Ecce Homo (Cristo Coronado de Espinas)",
+            "autor": "Guido Reni (fallecido en 1642)",
+            "museo": "Musée du Louvre / Dominio Público PD-100",
+            "licencia": "CC0 1.0 / PD-100",
+            "archivoLocal": "assets/img/misterios/dolorosa-3-coronacion-espinas.svg",
+            "urlMuseo": "https://commons.wikimedia.org/wiki/File:Guido_Reni_-_Ecce_Homo_-_WGA19290.jpg",
+            "simbolo": "corona_spinea",
+            "sha256_local": "ac728af355ae59a67eec074cf5c8369345a834972a5c9718e22af987ba4f88ea",
+            "archivoJpgUsuario": "assets/img/misterios/dolorosa-3.jpg",
+            "nombreArchivoSugerido": "dolorosa-3.jpg"
+          },
+          "lectura_misterio_es": "Mís-té-ri-um Tér-tsi-um: Yé-sus spí-nis ko-ro-ná-tus est. Pé-ti-mus mor-ti-fi-ka-tsi-ó-nem mén-tis nós-tre."
+        },
+        {
+          "num": 4,
+          "romano": "Mysterium IV",
+          "titulo_la": "Jesus Crucem bajulavit",
+          "pron_la": "(: yé-sus krú-chem ba-yu-lá-vit)",
+          "titulo_es": "El Señor cargando la Cruz",
+          "fruto_la": "Pétimus: Patiéntiam in tribulatiónibus",
+          "fruto_es": "Pedimos: Paciencia en las tribulaciones",
+          "citasBiblicas": [
+            {
+              "ref": "San Juan, capítulo diecinueve, versículo diecisiete",
+              "texto_la": "Et bájulans sibi Crucem exívit in eum, qui dícitur Calváriæ locum, hebráice autem Gólgotha.",
+              "texto_es": "Y llevando Él mismo su Cruz a cuestas, salió hacia el lugar llamado del Calvario, y en hebreo Gólgota.",
+              "lectura_fonetica_es": "Et bá-yu-lans sí-bi Krú-chem ek-sí-vit in é-um, kuí dí-chi-tur Kal-vá-ri-e ló-kum, e-brá-i-che áu-tem Gól-go-ta."
+            },
+            {
+              "ref": "San Mateo, capítulo dieciséis, versículo veinticuatro",
+              "texto_la": "Si quis vult post me veníre, ábneget semetípsum, et tollat crucem suam, et sequátur me.",
+              "texto_es": "Si alguno quiere venir en pos de Mí, niéguese a sí mismo, tome su cruz y sígame.",
+              "lectura_fonetica_es": "Si kuís vult post me ve-ní-re, áb-ne-yet se-me-típ-sum, et tól-lat krú-chem sú-am, et se-kuá-tur me."
+            },
+            {
+              "ref": "Isaías, capítulo cincuenta y tres, versículo siete",
+              "texto_la": "Oblátus est quia ipse vóluit, et non apéruit os suum: sicut ovis ad occisiónem ducétur.",
+              "texto_es": "Fue ofrecido porque Él mismo lo quiso, y no abrió su boca; como cordero será llevado al matadero.",
+              "lectura_fonetica_es": "O-blá-tus est kuí-a íp-se vó-lu-it, et non a-pé-ru-it os sú-um: sí-kut ó-vis ad ok-chi-si-ó-nem du-ché-tur."
+            }
+          ],
+          "meditaciones": [
+            "Extenuado por la pérdida de sangre, Nuestro Señor abraza el madero pesadísimo de la Cruz y sube hacia el Gólgota, encontrando en la calle de la Amargura a su Madre Santísima.",
+            "Enseña la Imitación de Cristo que en la Cruz está la salud, en la Cruz la vida, en la Cruz la defensa contra los enemigos y la suma perfección de la santidad: no hay otro camino para la vida y para la verdadera paz interior sino el camino de la Santa Cruz y de la continua mortificación.",
+            "Pidamos la gracia de ayudar a Cristo como el Cirineo, llevando sin murmuración los trabajos de nuestro estado en espíritu de expiación."
+          ],
+          "arteCC0": {
+            "id": "dolorosa_4",
+            "obra": "Cristo abrazando la Cruz",
+            "autor": "El Greco (Doménikos Theotokópoulos, fallecido en 1614)",
+            "museo": "The Metropolitan Museum of Art (Open Access CC0)",
+            "licencia": "CC0 1.0 Universal (Met Museum)",
+            "archivoLocal": "assets/img/misterios/dolorosa-4-via-crucis.svg",
+            "urlMuseo": "https://www.metmuseum.org/art/collection/search/436573",
+            "simbolo": "crux_via",
+            "sha256_local": "6d353686ae943ff2fc9dd647989998d11d3b682aef75c6a7f2138929666a31b7",
+            "archivoJpgUsuario": "assets/img/misterios/dolorosa-4.jpg",
+            "nombreArchivoSugerido": "dolorosa-4.jpg"
+          },
+          "lectura_misterio_es": "Mís-té-ri-um Kuár-tum: Yé-sus Krú-chem ba-yu-lá-vit. Pé-ti-mus pa-tsi-én-tsi-am in tri-bu-la-tsi-ó-ni-bus."
+        },
+        {
+          "num": 5,
+          "romano": "Mysterium V",
+          "titulo_la": "Jesus in Cruce mortuus est",
+          "pron_la": "(: yé-sus in krú-che mór-tu-us est)",
+          "titulo_es": "La Crucifixión y muerte del Señor",
+          "fruto_la": "Pétimus: Fructus Redemptiónis pro nobis et animábus",
+          "fruto_es": "Pedimos: Que los frutos de su Redención alcancen para nosotros y las almas",
+          "citasBiblicas": [
+            {
+              "ref": "San Juan, capítulo diecinueve, versículos veinticinco a veintisiete",
+              "texto_la": "Stabant autem juxta Crucem Jesu Mater ejus... Dicit Discípulo: Ecce Mater tua.",
+              "texto_es": "Estaban junto a la Cruz de Jesús su Madre... Y dijo al discípulo: He ahí a tu Madre.",
+              "lectura_fonetica_es": "Stá-bant áu-tem yúks-ta Krú-chem Yé-su Má-ter é-yus... Dí-chit Di-shí-pu-lo: Ék-che Má-ter tú-a."
+            },
+            {
+              "ref": "San Lucas, capítulo veintitrés, versículo cuarenta y seis",
+              "texto_la": "Et clamans voce magna Jesus ait: Pater, in manus tuas comméndo spíritum meum. Et hæc dicens, exspirávit.",
+              "texto_es": "Y clamando Jesús con gran voz, dijo: Padre, en tus manos encomiendo mi espíritu. Y diciendo esto, expiró.",
+              "lectura_fonetica_es": "Et klá-mans vó-che má-ña Yé-sus á-it: Pá-ter, in má-nus tú-as kom-mén-do spí-ri-tum mé-um. Et ek dí-chens, eks-pi-rá-vit."
+            },
+            {
+              "ref": "San Juan, capítulo diecinueve, versículo treinta y cuatro",
+              "texto_la": "Sed unus mílitum láncea latus ejus apéruit, et contínuo exívit sanguis et aqua.",
+              "texto_es": "Mas uno de los soldados le abrió el costado con una lanza, y al instante salió sangre y agua.",
+              "lectura_fonetica_es": "Sed ú-nus mí-li-tum lán-che-a lá-tus é-yus a-pé-ru-it, et kon-tí-nu-o ek-sí-vit sán-guis et á-kua."
+            }
+          ],
+          "meditaciones": [
+            "Clavado de pies y manos entre el cielo y la tierra, Jesucristo ofrece al Padre Eterno el Sacrificio cruento de nuestra Redención, que se renueva de modo incruento en el Santo Sacrificio de la Misa según la doctrina del Concilio de Trento.",
+            "Al pie de la Cruz permanece firme María Santísima, Corredentora del género humano, ofreciendo con heroica fortaleza la Víctima Divina y recibiéndonos por hijos en la persona de San Juan.",
+            "Del Costado abierto de Cristo brotan Sangre y Agua, símbolo de los Santos Sacramentos de los cuales nace la Santa Madre Iglesia. Adoremos su preciosísima Sangre y pidamos una santa muerte en gracia de Dios."
+          ],
+          "arteCC0": {
+            "id": "dolorosa_5",
+            "obra": "Cristo Crucificado",
+            "autor": "Diego Velázquez (fallecido en 1660) / Francisco de Zurbarán",
+            "museo": "Museo Nacional del Prado / Dominio Público PD-100",
+            "licencia": "CC0 1.0 / PD-100",
+            "archivoLocal": "assets/img/misterios/dolorosa-5-crucifixion.svg",
+            "urlMuseo": "https://commons.wikimedia.org/wiki/File:Cristo_crucificado_(Vel%C3%A1zquez,_Museo_del_Prado).jpg",
+            "simbolo": "calvaria",
+            "sha256_local": "a9df877d42a1192f2b018dfc3a6d755fa1ab4449a5c7a7917a71e3c90ea137d9",
+            "archivoJpgUsuario": "assets/img/misterios/dolorosa-5.jpg",
+            "nombreArchivoSugerido": "dolorosa-5.jpg"
+          },
+          "lectura_misterio_es": "Mís-té-ri-um Kuín-tum: Yé-sus in Krú-che mór-tu-us est. Pé-ti-mus frúk-tus Re-demp-tsi-ó-nis pro nó-bis et a-ni-má-bus."
+        }
+      ]
+    },
+    "gloriosa": {
+      "id": "gloriosa",
+      "nombre_la": "Mystéria Gloriósa",
+      "pron_la": "(: mis-té-ri-a glo-ri-ó-sa)",
+      "nombre_es": "Misterios Gloriosos",
+      "dias_es": "Miércoles, Sábados y Domingos (desde Pascua hasta Adviento)",
+      "color_liturgico": "#d4af37",
+      "misterios": [
+        {
+          "num": 1,
+          "romano": "Mysterium I",
+          "titulo_la": "Jesus a mortuis resurrexit",
+          "pron_la": "(: yé-sus a mór-tu-is re-sur-rék-sit)",
+          "titulo_es": "La Resurrección del Señor",
+          "fruto_la": "Pétimus: Fidem",
+          "fruto_es": "Pedimos: La virtud de la Fe",
+          "citasBiblicas": [
+            {
+              "ref": "San Mateo, capítulo veintiocho, versículos cinco a seis",
+              "texto_la": "Nolíte timére vos: scio enim quod Jesum, qui crucifíxus est, quǽritis: non est hic, surréxit enim, sicut dixit.",
+              "texto_es": "No temáis vosotras; porque yo sé que buscáis a Jesús, el que fue crucificado: no está aquí, pues ha resucitado, como lo dijo.",
+              "lectura_fonetica_es": "No-lí-te ti-mé-re vos: shí-o é-nim kuód Yé-sum, kuí kru-chi-fík-sus est, kué-ri-tis: non est ik, sur-rék-sit é-nim, sí-kut dík-sit."
+            },
+            {
+              "ref": "Primera Epístola a los Corintios, capítulo quince, versículos veinte a veintiuno",
+              "texto_la": "Nunc autem Christus resurréxit a mórtuis, primítiæ dormiéntium: quóniam quidem per hóminem mors, et per hóminem resurréctio mortuórum.",
+              "texto_es": "Mas ahora Cristo ha resucitado de entre los muertos, primicias de los que duermen; porque así como por un hombre vino la muerte, también por un Hombre viene la resurrección de los muertos.",
+              "lectura_fonetica_es": "Nunk áu-tem Krís-tus re-sur-rék-sit a mór-tu-is, pri-mí-tsi-e dor-mi-én-tsi-um: kuó-ni-am kuí-dem per ó-mi-nem mors, et per ó-mi-nem re-sur-rék-tsi-o mor-tu-ó-rum."
+            },
+            {
+              "ref": "San Juan, capítulo once, versículo veinticinco",
+              "texto_la": "Ego sum resurréctio et vita: qui credit in me, étiam si mórtuus fúerit, vivet.",
+              "texto_es": "Yo soy la resurrección y la vida; el que cree en Mí, aunque hubiere muerto, vivirá.",
+              "lectura_fonetica_es": "É-go sum re-sur-rék-tsi-o et ví-ta: kuí kré-dit in me, é-tsi-am si mór-tu-us fú-e-rit, ví-vet."
+            }
+          ],
+          "meditaciones": [
+            "Al tercer día, por su propia virtud divina, el Alma santísima de Cristo se une de nuevo a su Cuerpo glorioso, saliendo triunfante del sepulcro sellado y venciendo para siempre al demonio, al pecado y a la muerte.",
+            "La Resurrección de Jesucristo es el fundamento inconmovible de nuestra Santa Fe Católica y la prenda segura de nuestra propia resurrección futura.",
+            "Así como Cristo resucitó por la gloria del Padre, así también nosotros debemos resucitar a una vida nueva y santa, sin volver jamás a la muerte del pecado."
+          ],
+          "arteCC0": {
+            "id": "gloriosa_1",
+            "obra": "La Resurrección de Cristo",
+            "autor": "Albrecht Dürer (: dú-rer, fallecido en 1528) / Fra Angelico",
+            "museo": "National Gallery of Art, Washington D.C. (Open Access CC0)",
+            "licencia": "CC0 1.0 Universal (NGA)",
+            "archivoLocal": "assets/img/misterios/gloriosa-1-resurreccion.svg",
+            "urlMuseo": "https://www.nga.gov/collection/art-object-page.1943.3.3688.html",
+            "simbolo": "vexillum",
+            "sha256_local": "4417fce33ae01c6507e6ed669af371718d6e227dc056a5e3951caa7f5affcc65",
+            "archivoJpgUsuario": "assets/img/misterios/gloriosa-1.jpg",
+            "nombreArchivoSugerido": "gloriosa-1.jpg"
+          },
+          "lectura_misterio_es": "Mís-té-ri-um Prí-mum: Yé-sus a mór-tu-is re-sur-rék-sit. Pé-ti-mus Fí-dem."
+        },
+        {
+          "num": 2,
+          "romano": "Mysterium II",
+          "titulo_la": "Jesus in Coelum ascendit",
+          "pron_la": "(: yé-sus in ché-lum a-shén-dit)",
+          "titulo_es": "La Ascensión del Señor",
+          "fruto_la": "Pétimus: Spem",
+          "fruto_es": "Pedimos: La virtud de la Esperanza",
+          "citasBiblicas": [
+            {
+              "ref": "Hechos de los Apóstoles, capítulo primero, versículo nueve",
+              "texto_la": "Et cum hæc dixísset, vidéntibus illis, elevátus est: et nubes suscépit eum ab óculis eórum.",
+              "texto_es": "Y habiendo dicho estas cosas, viéndolo ellos, se fue elevando, y una nube le recibió y le ocultó a sus ojos.",
+              "lectura_fonetica_es": "Et kum ek dik-sís-set, vi-dén-ti-bus íl-lis, e-le-vá-tus est: et nú-bes sus-ché-pit é-um ab ó-ku-lis e-ó-rum."
+            },
+            {
+              "ref": "San Marcos, capítulo dieciséis, versículo diecinueve",
+              "texto_la": "Et Dóminus quidem Jesus, postquam locútus est eis, assúmptus est in cælum, et sedet a dextris Dei.",
+              "texto_es": "Y el Señor Jesús, después que les hubo hablado, fue elevado al Cielo, y está sentado a la diestra de Dios.",
+              "lectura_fonetica_es": "Et Dó-mi-nus kuí-dem Yé-sus, póst-kuam lo-kú-tus est é-is, as-súmp-tus est in ché-lum, et sé-det a déks-tris Dé-i."
+            },
+            {
+              "ref": "Epístola a los Colosenses, capítulo tercero, versículos uno a dos",
+              "texto_la": "Igitur, si consurrexístis cum Christo, quæ sursum sunt quǽrite, ubi Christus est in déxtera Dei sedens: quæ sursum sunt sápite, non quæ super terram.",
+              "texto_es": "Así pues, si habéis resucitado con Cristo, buscad las cosas de arriba, donde Cristo está sentado a la diestra de Dios; saboread las cosas del Cielo, no las de la tierra.",
+              "lectura_fonetica_es": "Í-yi-tur, si kon-sur-rek-sís-tis kum Krís-to, kué súr-sum sunt kué-ri-te, ú-bi Krís-tus est in déks-te-ra Dé-i sé-dens."
+            }
+          ],
+          "meditaciones": [
+            "Cuarenta días después de su Resurrección, desde el Monte de los Olivos y en presencia de su Madre Santísima y de los discípulos, Jesucristo sube por su propio poder a los Cielos para abrirnos las puertas de la gloria eterna.",
+            "En el Cielo, Cristo es nuestro Abogado y Mediador sempiterno ante el Padre, y nos prepara morada eterna si perseveramos fieles hasta el fin.",
+            "Desprendamos nuestro corazón de este destierro pasajero y vivamos con la mirada puesta en nuestra verdadera Patria celestial."
+          ],
+          "arteCC0": {
+            "id": "gloriosa_2",
+            "obra": "La Ascensión del Señor",
+            "autor": "Giotto di Bondone (fallecido en 1337)",
+            "museo": "Capilla de los Scrovegni, Padua / Dominio Público PD-100",
+            "licencia": "CC0 1.0 / PD-100",
+            "archivoLocal": "assets/img/misterios/gloriosa-2-ascension.svg",
+            "urlMuseo": "https://commons.wikimedia.org/wiki/File:Giotto_-_Scrovegni_-_-38-_-_Ascension.jpg",
+            "simbolo": "nubes_gloriae",
+            "sha256_local": "1ec330abc6ce46daea00f26369b35bed2fad655d2643d77499c3e1ee0d2172a8",
+            "archivoJpgUsuario": "assets/img/misterios/gloriosa-2.jpg",
+            "nombreArchivoSugerido": "gloriosa-2.jpg"
+          },
+          "lectura_misterio_es": "Mís-té-ri-um Se-kún-dum: Yé-sus in Ché-lum a-shén-dit. Pé-ti-mus Spem."
+        },
+        {
+          "num": 3,
+          "romano": "Mysterium III",
+          "titulo_la": "Spiritus Sanctus in Apostolos descendit",
+          "pron_la": "(: spí-ri-tus sánk-tus in a-pós-to-los de-shén-dit)",
+          "titulo_es": "El descenso del Espíritu Santo",
+          "fruto_la": "Pétimus: Caritátem erga Deum",
+          "fruto_es": "Pedimos: La caridad a Dios",
+          "citasBiblicas": [
+            {
+              "ref": "Hechos de los Apóstoles, capítulo segundo, versículos dos a cuatro",
+              "texto_la": "Et apparuérunt illis dispertítæ linguæ tamquam ignis, sedítque supra síngulos eórum: et repléti sunt omnes Spíritu Sancto.",
+              "texto_es": "Y les aparecieron unas lenguas repartidas como de fuego, que se asentaron sobre cada uno de ellos; y quedaron todos llenos del Espíritu Santo.",
+              "lectura_fonetica_es": "Et ap-pa-ru-é-runt íl-lis dis-per-tí-te lín-gue tám-kuam í-ñis, se-dít-kue sú-pra sín-gu-los e-ó-rum: et re-plé-ti sunt óm-nes Spí-ri-tu Sánk-to."
+            },
+            {
+              "ref": "Hechos de los Apóstoles, capítulo primero, versículo catorce",
+              "texto_la": "Hi omnes erant perseverántes unanímiter in oratióne cum muliéribus, et María Matre Jesu.",
+              "texto_es": "Todos éstos perseveraban unánimes en la oración con las mujeres, y con María la Madre de Jesús.",
+              "lectura_fonetica_es": "I óm-nes é-rant per-se-ve-rán-tes u-na-ní-mi-ter in o-ra-tsi-ó-ne kum mu-li-é-ri-bus, et Ma-rí-a Má-tre Yé-su."
+            },
+            {
+              "ref": "Epístola a los Romanos, capítulo quinto, versículo quinto",
+              "texto_la": "Cáritas Dei diffúsa est in córdibus nostris per Spíritum Sanctum, qui datus est nobis.",
+              "texto_es": "La caridad de Dios ha sido derramada en nuestros corazones por el Espíritu Santo que nos ha sido dado.",
+              "lectura_fonetica_es": "Ká-ri-tas Dé-i dif-fú-sa est in kór-di-bus nós-tris per Spí-ri-tum Sánk-tum, kuí dá-tus est nó-bis."
+            }
+          ],
+          "meditaciones": [
+            "Reunidos en el Cenáculo en oración junto a María Santísima, Esposa purísima del Espíritu Santo, los Apóstoles reciben el fuego divino que transforma su temor en fortaleza invencible para predicar el Evangelio hasta el martirio.",
+            "Pidamos la plenitud de los siete dones del Espíritu Santo: Sabiduría, Entendimiento, Consejo, Fortaleza, Ciencia, Piedad y Santo Temor de Dios.",
+            "Recordemos que el Espíritu Santo asiste infaliblemente a la Santa Iglesia Católica para custodiar íntegro el depósito de la Revelación Pública cerrada con la muerte del último Apóstol."
+          ],
+          "arteCC0": {
+            "id": "gloriosa_3",
+            "obra": "Pentecostés (La Venida del Espíritu Santo)",
+            "autor": "Duccio di Buoninsegna (fallecido en 1319) / El Greco",
+            "museo": "Museo Nacional del Prado / Dominio Público PD-100",
+            "licencia": "CC0 1.0 / PD-100",
+            "archivoLocal": "assets/img/misterios/gloriosa-3-pentecostes.svg",
+            "urlMuseo": "https://commons.wikimedia.org/wiki/File:El_Greco_-_Pentecost_-_WGA10581.jpg",
+            "simbolo": "columba",
+            "sha256_local": "15224772101e9eb1db3af67c9ca7fe321f12f4896913d6e9fb89fda5c3263054",
+            "archivoJpgUsuario": "assets/img/misterios/gloriosa-3.jpg",
+            "nombreArchivoSugerido": "gloriosa-3.jpg"
+          },
+          "lectura_misterio_es": "Mís-té-ri-um Tér-tsi-um: Spí-ri-tus Sánk-tus in A-pós-to-los de-shén-dit. Pé-ti-mus Ka-ri-tá-tem ér-ga Dé-um."
+        },
+        {
+          "num": 4,
+          "romano": "Mysterium IV",
+          "titulo_la": "Beata Maria Virgo in Coelum assumpta est",
+          "pron_la": "(: be-á-ta ma-rí-a vír-go in ché-lum as-súmp-ta est)",
+          "titulo_es": "La Santísima Virgen es asunta al Cielo",
+          "fruto_la": "Pétimus: Grátiam moriéndi in statu grátiæ",
+          "fruto_es": "Pedimos: Morir en estado de gracia",
+          "citasBiblicas": [
+            {
+              "ref": "Apocalipsis, capítulo doce, versículo primero",
+              "texto_la": "Et signum magnum appáruit in cælo: Múlier amícta sole, et luna sub pédibus ejus, et in cápite ejus coróna stellárum duódecim.",
+              "texto_es": "Y apareció una grande señal en el Cielo: una Mujer vestida del sol, y la luna debajo de sus pies, y en su cabeza una corona de doce estrellas.",
+              "lectura_fonetica_es": "Et sí-ñum má-ñum ap-pá-ru-it in ché-lo: Mú-li-er a-mík-ta só-le, et lú-na sub pé-di-bus é-yus, et in ká-pi-te é-yus ko-ró-na stel-lá-rum du-ó-de-chim."
+            },
+            {
+              "ref": "Salmo cuarenta y cuatro, versículos diez a catorce",
+              "texto_la": "Ástítit regína a dextris tuis in vestítu deauráto, circúmdata varietáte. Omnis glória ejus fíliæ Regis ab intus.",
+              "texto_es": "Asistió la Reina a tu diestra con vestido bordado de oro, rodeada de variedad; toda la gloria de la Hija del Rey está en su interior.",
+              "lectura_fonetica_es": "Ás-ti-tit re-yí-na a déks-tris tú-is in ves-tí-tu de-au-rá-to, chir-kúm-da-ta va-ri-e-tá-te. Óm-nis gló-ri-a é-yus fí-li-e Ré-yis ab ín-tus."
+            },
+            {
+              "ref": "Cantar de los Cantares, capítulo octavo, versículo cinco",
+              "texto_la": "Quæ est ista, quæ ascéndit de desérto, delíciis áffluens, innixa super diléctum suum?",
+              "texto_es": "¿Quién es Ésta que sube del desierto, rebosando delicias, apoyada sobre su Amado?",
+              "lectura_fonetica_es": "Kué est ís-ta, kué a-shén-dit de de-sér-to, de-lí-chi-is áf-flu-ens, in-ník-sa sú-per di-lék-tum sú-um?"
+            }
+          ],
+          "meditaciones": [
+            "Aquella que fue preservada inmune de toda mancha de culpa original en su Inmaculada Concepción no podía quedar sujeta a la corrupción del sepulcro: terminado el curso de su vida terrena, fue asunta en cuerpo y alma a la gloria celestial.",
+            "Así lo definió infaliblemente el Papa Pío XII como dogma revelado por Dios en la Constitución Apostólica Munificentissimus Deus (: mu-ni-fi-chen-tís-si-mus dé-us, «el Dios Munificentísimo») el primero de noviembre de mil novecientos cincuenta.",
+            "Supliquemos a Nuestra Señora que nos asista en la hora decisiva de nuestra muerte para entregar el alma en gracia de Dios."
+          ],
+          "arteCC0": {
+            "id": "gloriosa_4",
+            "obra": "La Asunción de la Virgen",
+            "autor": "Bartolomé Esteban Murillo (fallecido en 1682) / Fra Angelico",
+            "museo": "Museo del Prado / Hermitage (Dominio Público PD-100)",
+            "licencia": "CC0 1.0 / PD-100",
+            "archivoLocal": "assets/img/misterios/gloriosa-4-asuncion.svg",
+            "urlMuseo": "https://commons.wikimedia.org/wiki/File:Bartolom%C3%A9_Esteban_Perez_Murillo_-_Assumption_of_the_Virgin_-_WGA16368.jpg",
+            "simbolo": "assumptio",
+            "sha256_local": "e8744686465915a88523db27790cce08a0de0fac6dad9b64efdca9aa25ce594a",
+            "archivoJpgUsuario": "assets/img/misterios/gloriosa-4.jpg",
+            "nombreArchivoSugerido": "gloriosa-4.jpg"
+          },
+          "lectura_misterio_es": "Mís-té-ri-um Kuár-tum: Be-á-ta Ma-rí-a Vír-go in Ché-lum as-súmp-ta est. Pé-ti-mus grá-tsi-am mo-ri-én-di in stá-tu grá-tsi-e."
+        },
+        {
+          "num": 5,
+          "romano": "Mysterium V",
+          "titulo_la": "Beata Maria Virgo in Coelo coronata est",
+          "pron_la": "(: be-á-ta ma-rí-a vír-go in ché-lo ko-ro-ná-ta est)",
+          "titulo_es": "La Coronación de Nuestra Señora",
+          "fruto_la": "Pétimus: Fidem in Maríam Regínam nostram",
+          "fruto_es": "Pedimos: Fe en María nuestra Reina",
+          "citasBiblicas": [
+            {
+              "ref": "Eclesiástico, capítulo veinticuatro, versículos diecisiete a veinticuatro",
+              "texto_la": "Quasi cedrus exaltáta sum in Líbano... Ego mater pulchræ dilectiónis, et timóris, et agnitiónis, et sanctæ spei.",
+              "texto_es": "Como cedro me elevé en el Líbano... Yo soy la Madre del hermoso amor, y del temor, y de la ciencia, y de la santa esperanza.",
+              "lectura_fonetica_es": "Kuá-si ché-drus ek-sal-tá-ta sum in Lí-ba-no... É-go má-ter púl-kre di-lek-tsi-ó-nis, et ti-mó-ris, et a-ñi-tsi-ó-nis, et sánk-te spé-i."
+            },
+            {
+              "ref": "Libro de Judit, capítulo quince, versículos diez a once",
+              "texto_la": "Tu glória Jerúsalem, tu lætítia Israël, tu honorificéntia pópuli nostri: quia fecísti viríliter.",
+              "texto_es": "Tú eres la gloria de Jerusalén, tú la alegría de Israel, tú la honra de nuestro pueblo, porque has obrado varonilmente.",
+              "lectura_fonetica_es": "Tu gló-ri-a Ye-rú-sa-lem, tu le-tí-tsi-a Ís-ra-el, tu o-no-ri-fi-chén-tsi-a pó-pu-li nós-tri: kuí-a fe-chís-ti vi-rí-li-ter."
+            },
+            {
+              "ref": "Apocalipsis, capítulo dos, versículo diez",
+              "texto_la": "Esto fidélis usque ad mortem, et dabo tibi corónam vitæ.",
+              "texto_es": "Sé fiel hasta la muerte, y te daré la corona de la vida.",
+              "lectura_fonetica_es": "És-to fi-dé-lis ús-kue ad mór-tem, et dá-bo tí-bi ko-ró-nam ví-te."
+            }
+          ],
+          "meditaciones": [
+            "La Beatísima Trinidad corona a María Santísima como Reina y Señora de los Ángeles y de los hombres, constituyéndola Medianera universal y dispensadora de todas las gracias que descienden de su Divino Hijo.",
+            "Como enseña Pío XII en la Encíclica Ad Caeli Reginam (: ad ché-li re-yí-nam, «A la Reina del Cielo»), María es Reina por derecho de maternidad divina y por derecho de conquista asociada al Redentor.",
+            "Consagremos nuestra vida, familia y patria a los Sagrados Corazones de Jesús y de María para instaurar todas las cosas en Cristo: Instaurare Omnia in Christo."
+          ],
+          "arteCC0": {
+            "id": "gloriosa_5",
+            "obra": "La Coronación de la Virgen por la Santísima Trinidad",
+            "autor": "Diego Velázquez (fallecido en 1660) / Fra Angelico",
+            "museo": "Museo Nacional del Prado (Dominio Público PD-100)",
+            "licencia": "CC0 1.0 / PD-100",
+            "archivoLocal": "assets/img/misterios/gloriosa-5-coronacion-virgen.svg",
+            "urlMuseo": "https://commons.wikimedia.org/wiki/File:Coronaci%C3%B3n_de_la_Virgen_(Vel%C3%A1zquez).jpg",
+            "simbolo": "corona_reginae",
+            "sha256_local": "e5a09a2a05ab5d22bc728634dd35ef4ee6f3e52ff6e7c749e134a5a381b43800",
+            "archivoJpgUsuario": "assets/img/misterios/gloriosa-5.jpg",
+            "nombreArchivoSugerido": "gloriosa-5.jpg"
+          },
+          "lectura_misterio_es": "Mís-té-ri-um Kuín-tum: Be-á-ta Ma-rí-a Vír-go in Ché-lo ko-ro-ná-ta est. Pé-ti-mus Fí-dem in Ma-rí-am Re-yí-nam nós-tram."
+        }
+      ]
+    }
+  }
+}
