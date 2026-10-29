@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 420" width="100%" height="100%">
+  <defs>
+    <radialGradient id="haloGlow" cx="50%" cy="34%" r="42%">
+      <stop offset="0%" stop-color="#e5c158" stop-opacity="0.42"/>
+      <stop offset="55%" stop-color="#c8a236" stop-opacity="0.14"/>
+      <stop offset="100%" stop-color="#4a1c1c" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="goldGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#f3dc90"/>
+      <stop offset="45%" stop-color="#c8a236"/>
+      <stop offset="100%" stop-color="#8b6914"/>
+    </linearGradient>
+    <linearGradient id="woodGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#2c120e"/>
+      <stop offset="50%" stop-color="#4e231c"/>
+      <stop offset="100%" stop-color="#260f0c"/>
+    </linearGradient>
+  </defs>
+  <!-- Halo & Liturgical Rays -->
+  <circle cx="160" cy="142" r="115" fill="url(#haloGlow)"/>
+  <g stroke="url(#goldGrad)" stroke-width="1.3" opacity="0.65">
+    <line x1="160" y1="22" x2="160" y2="262"/>
+    <line x1="40" y1="142" x2="280" y2="142"/>
+    <line x1="75" y1="57" x2="245" y2="227"/>
+    <line x1="245" y1="57" x2="75" y2="227"/>
+    <line x1="114" y1="31" x2="206" y2="253"/>
+    <line x1="206" y1="31" x2="114" y2="253"/>
+    <line x1="49" y1="96" x2="271" y2="188"/>
+    <line x1="271" y1="96" x2="49" y2="188"/>
+  </g>
+  <circle cx="160" cy="142" r="54" fill="none" stroke="url(#goldGrad)" stroke-width="1.6" stroke-dasharray="4 3" opacity="0.8"/>
+  <circle cx="160" cy="142" r="46" fill="none" stroke="url(#goldGrad)" stroke-width="1" opacity="0.5"/>
+
+  <!-- Ornate Floriated Ends (Fleur-de-lis finials) -->
+  <g fill="url(#goldGrad)" stroke="#5c4209" stroke-width="0.8">
+    <!-- Top Finial -->
+    <path d="M160 18 L170 36 L164 42 L156 42 L150 36 Z"/>
+    <circle cx="160" cy="15" r="4.5"/>
+    <!-- Left Finial -->
+    <path d="M36 142 L54 132 L60 138 L60 146 L54 152 Z"/>
+    <circle cx="33" cy="142" r="4.5"/>
+    <!-- Right Finial -->
+    <path d="M284 142 L266 132 L260 138 L260 146 L266 152 Z"/>
+    <circle cx="287" cy="142" r="4.5"/>
+    <!-- Base Calvary Steps -->
+    <path d="M110 388 L210 388 L222 402 L98 402 Z"/>
+    <path d="M122 374 L198 374 L208 388 L112 388 Z"/>
+    <path d="M134 360 L186 360 L194 374 L126 374 Z"/>
+  </g>
+
+  <!-- Main Cross Beam (Wood + Gold Border) -->
+  <rect x="145" y="38" width="30" height="324" rx="2" fill="url(#woodGrad)" stroke="url(#goldGrad)" stroke-width="2.2"/>
+  <rect x="56" y="127" width="208" height="30" rx="2" fill="url(#woodGrad)" stroke="url(#goldGrad)" stroke-width="2.2"/>
+  <rect x="149" y="42" width="22" height="316" fill="none" stroke="url(#goldGrad)" stroke-width="0.6" opacity="0.5"/>
+  <rect x="60" y="131" width="200" height="22" fill="none" stroke="url(#goldGrad)" stroke-width="0.6" opacity="0.5"/>
+
+  <!-- Titulus Crucis (INRI) -->
+  <path d="M124 62 L196 62 L192 84 L128 84 Z" fill="#f8f1e3" stroke="url(#goldGrad)" stroke-width="1.8"/>
+  <text x="160" y="77" text-anchor="middle" font-family="Georgia, serif" font-size="13" font-weight="bold" fill="#4a1c1c" letter-spacing="2">I·N·R·I</text>
+
+  <!-- Crown of Thorns at Intersection -->
+  <ellipse cx="160" cy="142" rx="26" ry="26" fill="none" stroke="url(#goldGrad)" stroke-width="3.2"/>
+  <ellipse cx="160" cy="142" rx="23" ry="23" fill="none" stroke="#6e4f0c" stroke-width="1.2" stroke-dasharray="5 3"/>
+
+  <!-- Stylized Corpus Christi Silhouette in Burnished Gold -->
+  <g fill="url(#goldGrad)" stroke="#5c4209" stroke-width="0.9">
+    <!-- Nimbus & Head inclined -->
+    <circle cx="158" cy="120" r="14" fill="none" stroke="url(#goldGrad)" stroke-width="1.5"/>
+    <ellipse cx="157" cy="121" rx="8.5" ry="10.5" transform="rotate(-12 157 121)"/>
+    <!-- Arms outstretched -->
+    <path d="M82 138 Q118 148 146 146 L174 146 Q202 148 238 138 L236 145 Q202 156 173 155 L147 155 Q118 156 84 145 Z"/>
+    <!-- Torso & Perizonium -->
+    <path d="M147 146 L173 146 L170 202 L150 202 Z"/>
+    <path d="M146 198 L174 198 L177 224 L165 228 L145 222 Z"/>
+    <!-- Legs & Feet nailed together -->
+    <path d="M150 222 L160 224 L162 292 L154 295 Z"/>
+    <path d="M160 224 L170 222 L166 295 L157 292 Z"/>
+    <!-- Sacred Nails -->
+    <circle cx="84" cy="141" r="2.3" fill="#4a1c1c" stroke="url(#goldGrad)" stroke-width="1"/>
+    <circle cx="236" cy="141" r="2.3" fill="#4a1c1c" stroke="url(#goldGrad)" stroke-width="1"/>
+    <circle cx="160" cy="294" r="2.6" fill="#4a1c1c" stroke="url(#goldGrad)" stroke-width="1"/>
+  </g>
+</svg>
